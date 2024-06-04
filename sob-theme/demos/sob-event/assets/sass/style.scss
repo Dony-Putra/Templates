@@ -1,0 +1,58 @@
+/*!
+Template Name: SobTheme
+Demo Name: Sob-Event
+Template URI: https://themeforest.net/user/labartisan
+Author: labartisan.net
+Author URI: https://themeforest.net/user/labartisan
+Description: Description
+Version: 1.0.0
+Text Domain: SobTheme
+Tags: community, couple, creative, dating, groups, love template, matching, members, online dating, profile, relationship, romance, social media, social network
+
+*/
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Normalize
+# Typography
+# Global CSS
+# Header CSS
+	*Style-1
+	*Style-2
+	*Mobile Header
+# Page Header
+# Banner
+	*Style-1
+	*Style-2
+# Main
+    *home + all common section
+# Blog
+	*Style-1
+	*Blog Single
+# Blog Widget
+# Contact Us
+#Footer
+--------------------------------------------------------------*/
+
+
+// Core variables and mixins
+@import "sub-stylesheet/_variables";
+@import "sub-stylesheet/_mixins";
+@import "sub-stylesheet/extend";
+
+
+
+// Core CSS
+@import "sub-stylesheet/_normalize";
+@import "sub-stylesheet/_global";
+@import "sub-stylesheet/header";
+@import "sub-stylesheet/banner";
+@import "sub-stylesheet/home";
+@import "sub-stylesheet/blog-post";
+@import "sub-stylesheet/shop-cart";
+@import "sub-stylesheet/gallery";
+@import "sub-stylesheet/_speakers";
+@import "sub-stylesheet/contact";
+@import "sub-stylesheet/footer";
+
+// Components

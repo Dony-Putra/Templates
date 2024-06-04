@@ -1,0 +1,164 @@
+/***************************************************************************************************************
+||||||||||||||||||||||||||       MASTER STYLESHEET FOR zxp Construction             ||||||||||||||||||||||||||||
+****************************************************************************************************************
+||||||||||||||||||||||||||||              TABLE OF CONTENT                  ||||||||||||||||||||||||||||||||||||
+****************************************************************************************************************
+****************************************************************************************************************
+* 1. imported styles 
+* 2. miscelnious styles 
+* 3. header styles 
+* 4. banner styles 
+* 5. footer styles 
+* 6. search popup styles 
+* 7. inner banner styles 
+* 8. contact styles 
+* 9. services styles 
+* 10. testimonials styles 
+* 11. faq styles 
+* 12. team styles 
+* 13. project styles 
+* 14. about styles 
+* 15. cta styles 
+* 16. features styles 
+* 17. request a qoute styles 
+* 18. video styles 
+* 19. brand styles 
+* 20. blog styles 
+* 21. sidebar styles 
+****************************************************************************************************************
+||||||||||||||||||||||||||||            End TABLE OF CONTENT                ||||||||||||||||||||||||||||||||||||
+****************************************************************************************************************/
+
+
+// math functions are not included in sass
+@import "drop-shadow-converter/mathfunctions";
+// import converter
+@import "drop-shadow-converter/drop-shadow-converter";
+// template sass helper functions
+@import "_helper-function.scss";
+
+/************************** 
+* 1. imported styles 
+***************************/
+
+@import 'modules/_imported';
+
+/************************** 
+* 2. miscelnious styles 
+***************************/
+
+@import 'modules/_miscelnious';
+
+/************************** 
+* 3. header styles 
+***************************/
+
+@import 'modules/_header';
+
+/************************** 
+* 4. banner styles 
+***************************/
+
+@import 'modules/_banner';
+
+/************************** 
+* 5. footer styles 
+***************************/
+
+@import 'modules/_footer';
+
+/************************** 
+* 6. search popup styles 
+***************************/
+
+@import 'modules/_search-popup';
+
+/************************** 
+* 7. inner banner styles 
+***************************/
+
+@import 'modules/_inner-banner';
+
+/************************** 
+* 8. contact styles 
+***************************/
+
+@import 'modules/_contact';
+
+/************************** 
+* 9. services styles 
+***************************/
+
+@import 'modules/_services';
+
+/************************** 
+* 10. testimonials styles 
+***************************/
+
+@import 'modules/_testimonials';
+
+/************************** 
+* 11. faq styles 
+***************************/
+
+@import 'modules/_faq';
+
+/************************** 
+* 12. team styles 
+***************************/
+
+@import 'modules/_team';
+
+/************************** 
+* 13. project styles 
+***************************/
+
+@import 'modules/_project';
+
+/************************** 
+* 14. about styles 
+***************************/
+
+@import 'modules/_about';
+
+/************************** 
+* 15. cta styles 
+***************************/
+
+@import 'modules/_cta';
+
+/************************** 
+* 16. features styles 
+***************************/
+
+@import 'modules/_feature';
+
+/************************** 
+* 17. request a qoute styles 
+***************************/
+
+@import 'modules/_request-a-qoute';
+
+/************************** 
+* 18. video styles 
+***************************/
+
+@import 'modules/_video';
+
+/************************** 
+* 19. brand styles 
+***************************/
+
+@import 'modules/_brand';
+
+/************************** 
+* 20. blog styles 
+***************************/
+
+@import 'modules/_blog';
+
+/************************** 
+* 21. sidebar styles 
+***************************/
+
+@import 'modules/_sidebar';

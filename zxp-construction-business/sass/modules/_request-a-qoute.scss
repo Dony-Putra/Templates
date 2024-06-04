@@ -1,0 +1,92 @@
+.request-a-qoute {
+	background:#242c33 url(../img/backgroud-1-2.jpg) right center fixed no-repeat;
+	background-size: cover;
+	.inner-box {
+		background:rgba(#242c33, .75);
+	}
+	.title {
+		padding-top: 30px;
+		padding-right: 50px;
+		h3 {margin: 0;color: #FFFFFF;font-size: 36px;font-weight: 600;font-family: 'Poppins';margin-bottom: 20px;}
+		p {font-size: 17px;line-height: 32px;color: #FFFFFF;margin: 0;font-family: 'Rubik';}
+	}
+	form.contact-form {
+        p {
+            font-size: 15px;
+            color: #FFC527;
+            font-family: 'Poppins';
+            margin: 0;
+            margin-bottom: 5px;
+        }
+        input,
+        textarea {
+            width: 100%;
+            height: 40px;
+            background: #FFFFFF;
+            border: none;
+            outline: none;
+            padding-left: 20px;
+            font-size: 14px;
+            color: #86898D;
+            display: block;
+            margin-bottom: 20px;
+            @include placeholder {color: #86898D;}
+            &.error {
+                background: rgba(red, .3);
+            }
+        }
+        label.error {
+            display: none !important;
+        }
+        textarea {
+            padding-top: 10px;
+            height: 200px;
+        }
+        button[type=submit] {
+            width: 100%;
+            height: 45px;
+            background: $thm_base_color;
+            color: #151E37;
+            font-size: 16px;
+            font-weight: 600;
+            font-family: 'Poppins';
+            text-align: center;
+            line-height: 45px;
+            transition: all .4s ease;
+            border: none;
+            outline: none;
+            margin-top: 10px;
+            &:hover {
+                background: #232C33;
+                color: $thm_base_color;
+            }
+        }
+        .bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn) {
+            width: 100%;
+        }
+        .bootstrap-select>.dropdown-toggle {
+            padding: 10px 20px;
+            background-color: #fff;
+            color: #86898D;
+            font-size: 14px;
+            border-radius: 0;
+            border: none;
+        }
+        .bootstrap-select.btn-group .dropdown-toggle .caret {
+            border: none;
+            width: auto;
+            height: auto;
+            transform: translateY(-50%);
+            margin: 0;
+            right: 20px;
+            &:before {
+                content: '\f107';
+                font-family: FontAwesome;
+                color: #86898D;
+                font-size: 14px;
+                line-height: 1em;
+            }
+        }
+        .bootstrap-select .dropdown-menu>li>a {padding-top: 8px;padding-bottom: 8px;}
+	}
+}

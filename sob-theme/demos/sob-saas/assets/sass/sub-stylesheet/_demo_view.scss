@@ -1,0 +1,135 @@
+
+// common-spinner
+.common-spinner {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    background: $theme-color;
+    z-index: 999;
+    top: 20%;
+    right: 20px;
+    font-size: 30px;
+    color: $white-color;
+    @include border-radius(100%);
+    animation: fa-spin 4s infinite linear;
+    cursor: pointer;
+}
+@keyframes fa-spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    
+    100% {
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+
+// Common Sidebar Demo
+.common-demo {
+    position: fixed;
+    z-index: 99999;
+    height: 100vh;
+    overflow-y: auto;
+    left: 100%;
+    background: #000000bf;
+    @include transition($transition);
+    &.open {
+        width: 100%;
+        left: 0;
+        .sidebar-close {
+            position: fixed;
+        }
+        .common-demo-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            background: rgba(0, 0, 0, .30);
+            width: 100%;
+            height: 100%;
+            cursor: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAMFBMVEVMaXH////////////////////////////////////////////////////////////6w4mEAAAAD3RSTlMAlAX+BKLcA5+b6hJ7foD4ZP1OAAAAkUlEQVR4XkWPoQ3CUBQAL4SktoKAbCUjgAKLJZ2ABYosngTJCHSD6joUI6BZgqSoB/+Shqde7sS9x3OGk81fdO+texMtRVTia+TsQtHEUJLdohJfgNNPJHyEJPZTsWLoxShqsWITazEwqePAn69Sw2TUxk1+euPis3EwaXy8RMHSZBIlRcKKnC5hRctjMf57/wJbBlAIs9k1BAAAAABJRU5ErkJggg==), progress;
+        }
+    }
+    .common-demo-close {
+        position: absolute;
+        content: "";
+        @include border-radius(4px 0 0 4px);
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        text-align: center;
+        z-index: 1;
+        font-size: 24px;
+        top: 0;
+        right: 75%;
+        cursor: pointer;
+        color: $white-color;
+        background: $theme-color;
+        @include breakpoint(xl) {
+            right: 45%;
+        }
+    }
+    .common-demo-area {
+        max-width: 75%;
+        margin-left: auto;
+        background: $white-color;
+        box-shadow: 0 5px 15px rgba(136, 136, 136, .30);
+        position: relative;
+        z-index: 99;
+        @include breakpoint(xl) {
+            max-width: 45%;
+        }
+        .common-demo-gallery {
+            padding: 20px;
+            .demo-thumb {
+                box-shadow: 0 5px 10px rgba(0, 0, 0, .50);
+                position: relative;
+                @include border-radius(6px);
+                overflow: hidden;
+                &:hover {
+                    &::after {
+                        transform: scale(1);
+                    }
+                    .demo-content {
+                        @include transform(translate(-50%, -50%) scale(1));
+                    }
+                }
+                &::after {
+                    width: 100%;
+                    height: 100%;
+                    top: 0;
+                    left: 0;
+                    position: absolute;
+                    content: "";
+                    background: rgba(0, 0, 0, .70);
+                    transform: scale(0);
+                    @include transition($transition);
+                }
+                .demo-content {
+                    position: absolute;
+                    top: 50%;
+                    left: 50%;
+                    width: 100%;
+                    text-align: center;
+                    z-index: 1;
+                    @include transition($transition);
+                    @include transform(translate(-50%, -50%) scale(0));
+                    h4 {
+                        margin-bottom: 15px;
+                        color: $white-color;
+                    }
+                    .demo-btn {
+                        padding: 10px 20px;
+                        color: $white-color;
+                        background: $theme-color;
+                        @include border-radius(6px);
+                        display: inline-block;
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+.about-us-style-one {
+	.about-content {padding-top: 40px;}
+    span {
+        display: block;
+        color: $thm_base_color;
+        font-size: 16px;
+        font-weight: 500;
+        font-family: 'Poppins';
+    }
+    h3 {
+        margin: 0;
+        color: #242C33;
+        font-weight: 600;
+        letter-spacing: -.025em;
+        line-height: 48px;
+        font-size: 36px;
+        font-family: 'Poppins';
+    }
+    h4 {
+        margin: 0;
+        color: #242C33;
+        font-family: 'Rubik';
+        font-size: 18px;
+        line-height: 27px;
+        font-weight: 500;
+        margin-top: 25px;
+        margin-bottom: 20px;
+    }
+    p {
+        color: #74787D;
+        font-style: 15px;
+        line-height: 27px;
+        font-family: 'Rubik';
+    }
+    a.about-btn {
+    	margin-top: 40px;
+        background: $thm_base_color;
+        width: 149px;
+        height: 45px;
+        border-radius: 5px;
+        font-size: 16px;
+        font-weight: 500;
+        font-family: 'Heebo';
+        display: inline-block;
+        vertical-align: middle;
+        text-align: center;
+        line-height: 45px;
+        color: #fff;
+        transition: all .4s ease;
+        &:hover {
+            background:#242C33;
+        }
+    }
+}
+
+.about-style-two {
+    background:#FAFAF4;
+    .about-content {
+        padding-left: 45px;
+        padding-right: 100px;
+        padding-top: 75px;
+        h3, p {margin: 0;}
+        h3 {font-size: 36px;color: #242C33;font-weight: 600;font-family: 'Poppins';margin-bottom: 10px;}
+        span {display: block;color: $thm_base_color;font-size: 16px;font-weight: 500;font-family: 'Poppins';}
+        p {color: #74787D;font-size: 15px;line-height: 27px;margin-top: 30px;}
+        .brand-logos {
+            margin-top: 35px;
+            img {
+                + img {margin-left: 36px;}
+            }
+        }
+    }
+}

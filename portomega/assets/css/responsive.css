@@ -1,0 +1,3383 @@
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .coming_soon_content {
+        padding-top: 60px
+    }
+    .slider-area .carousel-inner .carousel-item .caption-1 {
+        min-height: auto
+    }
+    .slider-area .carousel-inner .carousel-item .carousel-captions .content {
+        padding-bottom: 100px
+    }
+    .cp_shape_top {
+        top: 22%
+    }
+    .mask_with_girl_5 {
+        right: 147px;
+        top: 0
+    }
+    section.portmg_about_us .portmg_aboutRight_content_below h4 {
+        font-size: 12px
+    }
+    .portmg_team_section .portmg_wrap {
+        right: -3px
+    }
+    .portmg_professional_skill_section .portmg_professional_txt h3 {
+        font-size: 15px
+    }
+    .heading_style1 h3 {
+        font-size: 28px
+    }
+    .main_slider_wrapper-2 .cp_shape_top.mask_with_girl img {
+        max-width: 800px
+    }
+   
+    .bubble_three span {
+        bottom: 0;
+        width: 70px;
+        height: 70px
+    }
+    .portmg_team_section .portmg_team_member_pic img {
+        margin-left: -70px
+    }
+    .portmg_team_section .portmg_team_member_pic img {
+        min-width: 135px
+    }
+    .portmg_team_section .portmg_wrap {
+        width: 15%
+    }
+    .portmg_about_us .col-lg-7 {
+        padding: 60px 0
+    }
+    .portmg_unique_content_right .heading_style1 h3 {
+        font-size: 30px
+    }
+    .portmg_unique_content_right .portmg_unique_header_para p,
+    .portmg_unique_header_para_04 ul li {
+        font-size: 14px
+    }
+    .about_slution_tab .nav li .nav-link.tab_menu {
+        font-size: 13px;
+        padding: 20px 50px;
+    }
+    .about_slution_tab .nav li .nav-link{
+        font-size: 13px;
+    }
+    .portmg_digital_product_section .prs_video_sec_icon_wrapper .portmg_digital_product_circle_4 {
+        margin-top: 40px
+    }
+    .main_slider_wrapper_6.slider-area .carousel-inner .carousel-item .caption-1,
+    .slider-area .carousel-inner .carousel-item .caption-2,
+    .slider-area .carousel-inner .carousel-item .caption-3 {
+        width: 100%;
+        height: 100%;
+        position: relative;
+        min-height: 0
+    }
+    .main_slider_wrapper_6.slider-area .carousel-inner .carousel-item .carousel-captions .content {
+        padding-bottom: 65px
+    }
+    .get_started_section .get-btn .btn {
+        margin-bottom: 50px;
+        margin-top: 0
+    }
+    .skyblue-button.btn-style1 {
+        padding: 0 20px
+    }
+    .portmg_our_services_section .portmg_our_services_social {
+        max-width: 500px;
+        margin: -15px auto;
+        min-height: 475px
+    }
+    .portmg_our_services_section .faltmobile,
+    .portmg_our_services_section .flatfork,
+    .portmg_our_services_section .flatmeter {
+        width: 70px;
+        height: 70px;
+        font-size: 32px
+    }
+    .portmg_our_services_section .portmg_social_text {
+        left: 0
+    }
+    .portmg_our_services_section .portmg_social_text1 {
+        left: -32%
+    }
+    .portmg_our_services_section .portmg_social_text2 {
+        left: -37%
+    }
+    .portmg_our_services_section .flatclock,
+    .portmg_our_services_section .flatfubol,
+    .portmg_our_services_section .flatglobe {
+        width: 70px;
+        height: 70px;
+        font-size: 32px
+    }
+    .portmg_our_services_section .portmg_social_text3 {
+        right: -6%
+    }
+    .portmg_our_services_section .portmg_social_text4 {
+        right: -27%
+    }
+    .portmg_our_services_section .portmg_social_text5 {
+        right: -40%
+    }
+    .portmeg_gallery_wrapper .portfolio_item .portfolio_hover .zoom_popup_2 {
+        top: 13%;
+        left: 5%;
+        padding: 10px 15px
+    }
+    .portmg_blog .product_img_slider .blog_related_item.owl-theme .owl-nav {
+        bottom: 630px
+    }
+    .main_slider_wrapper_5 .bubble_5 {
+        left: 20%;
+        bottom: 65.1%
+    }
+    .main_slider_wrapper_5.slider-area .carousel-inner .carousel-item .carousel-captions .content h4:before {
+        left: -24%
+    }
+    .about-col {
+        padding: 18px 0
+    }
+    .portmg_aboutRight_content h3 {
+        font-size: 25px
+    }
+    section.portmg_about_us .portmg_right_1,
+    section.portmg_about_us .postmg_right_content_02 {
+        padding: 0 40px
+    }
+    section.portmg_about_us .portmg_right_1 p {
+        margin-bottom: 30px
+    }
+    .portmg_aboutRight_content h3 {
+        margin-bottom: 15px
+    }
+    .btn-resp {
+        text-align: center
+    }
+    .portmg_digital_product_heading {
+        padding: 0
+    }
+    .txt-resp {
+        text-align: center
+    }
+    .btn-resp {
+        text-align: center
+    }
+    .portmg_our_services_content_hedding_1 {
+        padding-left: 70px
+    }
+    .portmg_services_section_05 .portmg_our_services_content_hedding_1 h4 {
+        font-size: 16px
+    }
+    .portmg_our_services_content_para_1 p {
+        font-size: 15px
+    }
+    .portmg_our_services_content.portmg_our_services_content_03 {
+        padding-right: 30px;
+        padding: 10px;
+        padding-left: 25px
+    }
+    .portmg_our_services_content_hedding h4 {
+        font-size: 18px
+    }
+    .portmg_our_services_content_para_03 h4 {
+        font-size: 17px
+    }
+    .txt_resp_heading h3 {
+        font-size: 25px;
+        margin-bottom: 0
+    }
+    .portmg_unique_header_para ul {
+        margin: 10px 0 30px
+    }
+    .portmg_circle_section .portmg_circle_text.portmg_circle_text2 .portmg_text {
+        padding-top: 65px
+    }
+    .portmg_circle_section .portmg_text p {
+        padding-bottom: 0
+    }
+    .portmg_form_content_text {
+        margin-left: 0
+    }
+    .portmg_form_content_text {
+        margin-left: 0
+    }
+    .shopping_cart_wrapper .btn-style1 {
+        padding: 0 30px
+    }
+    .product_content_detials {
+        margin-right: 0
+    }
+    .product_wrapper .product-post-wrapper .entry-footer {
+        left: calc(40% - 40px)
+    }
+    .portomega-faq-section .about_slution_tab ul {
+        max-width: 200px
+    }
+    a.back-to-top {
+        bottom: 10px;
+        right: 10px
+    }
+    section.portmg_about_us .portmg_about_pad_01 {
+        padding: 0px 10px;
+    }
+    .portfolio_single_section .portfolio_content h3 {
+        font-size: 27px
+    }
+    .portfolio_single_section .portfolio_content h6 {
+        padding-top: 10px;
+        font-size: 17px
+    }
+    .content-img {
+        padding-top: 14px
+    }
+    .portfolio_single_section .portfolio_content p {
+        padding: 0
+    }
+    .porfolio_single_img img {
+        min-height: 475px
+    }
+    .portfolio-bdr-top {
+        margin-top: 50px
+    }
+    .content_text,
+    .content_text-03 {
+        padding: 10px 0
+    }
+    .portfolio_single_section .content_text:after {
+        height: calc(100% - 45px)
+    }
+    .content_text-1 {
+        padding-top: 10px;
+        padding-left: 0
+    }
+    .portfolio_social {
+        padding: 0
+    }
+    .portfolio_single_section .portfolio_social ul li {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 16px
+    }
+    .requirement_header_text {
+        padding-bottom: 30px
+    }
+    .reuirement-img {
+        padding-top: 30px
+    }
+    .requirement_text {
+        padding-bottom: 20px
+    }
+    .requirement_text p,
+    .requirement_text-1 p {
+        padding: 0;
+        font-size: 14px
+    }
+    .portfolio_requirement_section .requirement_btm_text h5 {
+        padding-top: 13px
+    }
+    .portfolio_requirement_section .requirement_btm_text h5:before {
+        top: 15px
+    }
+    .portfolio_single_02_section {
+        padding: 50px 0
+    }
+    .portfolio_content h4 {
+        font-size: 27px
+    }
+    .portfolio_content h6 {
+        padding-top: 10px
+    }
+    .portfolio_content p {
+        padding: 0;
+        font-size: 14px
+    }
+    .portmeg_gallery_wrapper .portfolio_item .portfolio_hover .port-zoom-poph3 {
+        font-size: 20px;
+        line-height: 30px
+    }
+    .portmeg_gallery_wrapper .portfolio_item .portfolio_hover .zoom_popup {
+        padding: 20px 14px
+    }
+    .portmeg_gallery_wrapper .portfolio_item .portfolio_hover .zoom_popup_right {
+        right: -22px
+    }
+    .resp_pad-1 {
+        padding-top: 16px
+    }
+    .requirement_text h4 {
+        padding-bottom: 50px
+    }
+    .requirement_text h5 {
+        padding-bottom: 20px
+    }
+    .resp-para p {
+        padding-top: 15px
+    }
+    .portfolio_single_03_section .content_text {
+        padding-left: 25px
+    }
+    .interface_quality_wrapper p {
+        margin-top: 60px
+    }
+    .interface_design_count_wrapper {
+        padding-top: 40px
+    }
+    .interface_design_wrapper {
+        padding-bottom: 40px
+    }
+    .interface_design_count_wrapper h2 {
+        margin-top: 15px
+    }
+    .princing_02_section .pricing-shape-circle img {
+        min-width: 78px;
+        top: 25px;
+        left: 10px
+    }
+    .princing_02_section .pricing-shape-header {
+        min-height: 141px
+    }
+    .princing_02_section .pricing_bestseller h4 {
+        font-size: 10px;
+        padding: 31px 2px
+    }
+    .princing_02_section .pricing_bestseller {
+        top: 15px;
+        right: 10px;
+        min-width: 50px
+    }
+    .princing_02_section .pricing_numeric_text {
+        top: 14%
+    }
+    .princing_01_section .pricing_numeric_text h3 sup {
+        left: 0
+    }
+    .princing_03_section .pricing-shape-circle img {
+        left: 20px
+    }
+    .princing_03_section .pricing_bestseller {
+        right: 3px
+    }
+    .portomega_product_left_Sidebar {
+        padding-left: 0
+    }
+    .about-bg-4 {
+        left: -600px
+    }
+    
+    .portmg_square_section .portmg_square_text {
+        padding-top: 20px;
+        padding-left: 16px
+    }
+    .portmg_square_section ul.portmg_team_social li a {
+        margin-top: -3px
+    }
+    .portmg_square_section .square_Pera {
+        padding-top: 45px;
+        font-size: 15px
+    }
+    .portmg_square_section .portmg_square_text h5 {
+        font-size: 18px
+    }
+    .coming_soon_2 .coming_soon_remainSec {
+        padding: 0 70px 10px
+    }
+    .coming_soon_2 .coming_soon_content {
+        padding-top: 30px
+    }
+    .portmg_unique_content_right_wrapper .portmg_unique_content_right {
+        padding: 0;
+        padding-top: 15px
+    }
+    .portmg_main_dash_image img {
+        left: 16%
+    }
+    .right_img2 {
+        margin-top: -69px;
+        margin-right: 0
+    }
+    #main-footer .bottom-footer p span a,
+    .bottom-footer p span {
+        font-size: 13px
+    }
+    .product__heading h6 {
+        margin-top: 5px;
+        font-size: 12px
+    }
+    .product-quantity .portmega_minus,
+    .product-quantity .portmega_plus {
+        right: 181px
+    }
+    .Ex_p {
+        padding-left: 20px
+    }
+    .product .product-line-price {
+        margin-right: 64px
+    }
+    .portomega_product_Left_heading2 {
+        padding-top: 0
+    }
+    .portomega_blog_04 .blog__1 {
+        padding: 14px 27px
+    }
+    .xt_gen_tabs_conent_list h1 {
+        font-size: 18px
+    }
+    .fa-external-link-alt {
+        margin-right: 34px
+    }
+    .portmeg_gallery_wrapper .portfolio_item .portfolio_hover .zoom_popup_3 {
+        left: 10px
+    }
+    .external__link2 {
+        margin-right: 15px;
+        margin-top: 3px
+    }
+    .portmeg_gallery_wrapper .portfolio_item .portfolio_hover .zoom_popup__2 {
+        top: 23%
+    }
+    .external_link__2 {
+        left: -44px
+    }
+    .portmg_circle_section_2 .portmg_circle_content:hover .portmg_circle_text {
+        top: 35%
+    }
+    .portmg_circle_section .portmg_circle_content {
+        margin-right: 0
+    }
+    .external_link_alt4 {
+        margin-right: 25px;
+        margin-top: -52px
+    }
+    .princing_01_section .pricing_numeric_text h3:after {
+        width: 170px
+    }
+    .portmg_blog .portmg-wrapper .blog-content .entry-header .entry-meta .posted-in:after {
+        top: 2px;
+        right: -7px
+    }
+    .portmg_blog .portmg-wrapper .entry-header .entry-meta li {
+        padding-right: 7px
+    }
+    .portmg_blog .portmg-wrapper .blog-content3 {
+        padding: 20px
+    }
+    .blog-content1 {
+        padding: 40px 20px
+    }
+    .portmg_blog .portmg-wrapper .blog-content2 {
+        padding: 20px 15px
+    }
+    .portmg_aboutRight_content .portmg_about_btn_2 a {
+        margin-bottom: 30px
+    }
+    .portmg_professional_skill_section .portmg_professional_bdr {
+        margin-left: 0
+    }
+    .coming_soon_2 .coming_soon_email_notify form {
+        padding-top: 83%
+    }
+    .coming_soon_2#fullpage ul.social {
+        margin-top: 40px
+    }
+    .external_link_alt4 {
+        margin-right: 30px;
+        margin-top: 3px;
+        font-size: 16px;
+    }
+    .coming_soon_button_wrapper .coming_soon_header_btn a {
+        margin-right: 0px;
+        padding: 0px 30px;
+    }
+    .stylish-sticky-button{
+        padding: 0px 55px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .count-description h5 {
+        padding-bottom: 30px
+    }
+    .portmeg_work_morebtn {
+        margin-top: -30px
+    }
+    .portmg_unique_wrrapper_section .portmg_unique_wrrapper_first_part,
+    .portmg_about_us_first_part {
+        position: relative;
+    }
+    .portmg_form_right_content {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .portmg_left_form {
+        position: relative;
+    }
+    .portmg_form_section_01 .portmg_left_form {
+        position: relative;
+    }
+    .portmg_digital_product_heading h2 {
+        margin-left: 0px
+    }
+    .portmg_digital_product_section .portmg_digital_product_circle {
+        left: calc(75% - 34px);
+    }
+    .portmg_digital_product_section .portmg_digital_service_circle,
+    .portmg_digital_product_section .portmg_digital_product_circle_4 {
+        left: calc(50% - 34px);
+    }
+    .portmg_about_us .heading_style1 {
+        margin-left: 0px;
+        width: auto;
+    }
+    .portmg_about_us.about_me .portmg_aboutRight_content_below.postmg_right_content_02 {
+        padding: 0px 100px;
+    }
+    input {
+        padding: 9px 15px
+    }
+    .portmg_main_testimonial_para p {
+        font-size: 14px
+    }
+    .portmg_form_content_text_right {
+        padding: 60px 0px;
+    }
+    .portmg_form_content_text {
+        padding: 60px 0;
+        padding-left: 60px;
+        margin-left: 0
+    }
+    #main-footer .upper-footer {
+        padding-bottom: 60px
+    }
+    #main-footer .gallery-wrapper {
+        background: 0 0
+    }
+    .portmeg_gallery_wrapper .portfolio_item .portfolio_hover .zoom_popup {
+        padding: 15px 15px
+    }
+    .get_started_text {
+        padding: 0
+    }
+    .portmg_team_section .portmg_wrap {
+        right: -10px
+    }
+    .portmg_our_services_content_para_03 h4 {
+        font-size: 18px;
+        margin-left: 30px
+    }
+    .portmg_our_services_content_para_03 p {
+        margin: 5px 30px
+    }
+    .portmg_our_services_content_hedding_03 h4 {
+        font-size: 18px;
+        margin: 20px 30px
+    }
+   
+    .main_slider_wrapper-2 .cp_shape_top {
+        position: inherit
+    }
+    .main_slider_wrapper-2 .cp_shape_top.mask_with_girl {
+        right: 15%;
+        top: -20%
+    }
+    .main_slider_wrapper-2 .carousel-inner .carousel-item .carousel-captions .content {
+        padding-top: 240px;
+        padding-bottom: 0
+    }
+    .bubble_two span {
+        bottom: -15%
+    }
+    .main_slider_wrapper-2 .portmg_digital_product_circle {
+        top: calc(30% - 34px)
+    }
+    .portmg_team_section .portmg_team_member_pic img {
+        min-width: 148px
+    }
+    .portmg_blog .portmg-wrapper .entry-title {
+        font-size: 15px
+    }
+    .contact_btn img {
+        margin-right: 0
+    }
+    .portmg_digital_product_section .prs_video_sec_icon_wrapper .portmg_digital_product_circle_4 {
+        margin-top: 40px
+    }
+    .portmeg_gallery_wrapper .portfolio_item .portfolio_hover .port-zoom-poph3 {
+        font-size: 14px
+    }
+    .portmg-gallery-tab {
+        position: relative;
+        top: 0;
+        right: 10px
+    }
+    .portmg_professional_skill_section .portmg_professional_bdr {
+        display: none
+    }
+    .portmg_professional_skill_section .get_btn {
+        text-align: center
+    }
+    .portmg_professional_img img,
+    .portmg_unique_image img {
+        width: 100%
+    }
+    .portmg_unique_wrrapper_section p {
+        padding-top: 20px
+    }
+    .main_slider_wrapper_6.slider-area .carousel-inner .carousel-item .caption-1,
+    .slider-area .carousel-inner .carousel-item .caption-2,
+    .slider-area .carousel-inner .carousel-item .caption-3 {
+        width: 100%;
+        height: 100%;
+        position: relative;
+        min-height: 0
+    }
+    .main_slider_wrapper_6.slider-area .carousel-inner .carousel-item .carousel-captions .content {
+        padding-bottom: 65px
+    }
+    .footer-newsletter {
+        padding: 24px
+    }
+    .toggle__menu .toggle_submenu li {
+        text-transform: uppercase
+    }
+    .skyblue-button.btn-style1 {
+        padding: 0 20px
+    }
+    #main-footer.footer-style3 .widget h4 {
+        font-size: 14px
+    }
+    .portmg_our_services_section .portmg_our_services_social {
+        max-width: 500px;
+        margin: -15px auto;
+        min-height: 475px
+    }
+    .portmg_our_services_section .portmg_our_services_logo {
+        width: 38%;
+        height: 40%;
+        top: 28%;
+        left: 30%
+    }
+    .portmg_our_services_section .portmg_our_services_logo img {
+        left: 17%;
+        top: 42%
+    }
+    .portmg_our_services_section .flatfubol {
+        padding-top: 0
+    }
+    .portmg_our_services_section .portmg_social_text2 {
+        top: 67%;
+        left: -27%
+    }
+    .portmg_contect_bg_02,
+    .portmg_round_05_bg,
+    .portmg_round_bg_04,
+    .portmg_round_bg_03,
+    .portmg_round_bg {
+        left: 0px;
+        width: 100%;
+    }
+    .portmg_our_services_section .portmg_social_text3 {
+        top: -1%
+    }
+    .portmg_our_services_section .portmg_social_text5 {
+        top: 70%;
+        right: -25%
+    }
+    .portmg_our_services_content {
+        padding-right: 30px;
+        padding: 25px
+    }
+    .portmg_our_services_content_hedding h4 {
+        font-size: 18px
+    }
+    .portmeg_gallery_wrapper .portfolio_item .portfolio_hover .zoom_popup_2 {
+        top: 12%;
+        left: 5%;
+        padding: 10px 10px
+    }
+    .left_img img {
+        right: 0
+    }
+    .right_img2 {
+        margin-right: -8px;
+        margin-top: -69px
+    }
+    .porotmega-blog-author {
+        padding: 0
+    }
+    .porotmega-blog-author .portomega-blog-author-image {
+        padding-top: 30px;
+        padding-left: 20px
+    }
+    .portmg_blog .product_img_slider .blog_related_item.owl-theme .owl-nav {
+        bottom: 677px
+    }
+    .portomega_comment_read_section .portomega_comment_section p {
+        font-size: 12px
+    }
+    .main_slider_wrapper_5.slider-area .carousel-inner .carousel-item .carousel-captions .content h4:before {
+        left: -18%
+    }
+    .main_slider_wrapper_5 .bubble_5 {
+        bottom: 429px
+    }
+    .mask_with_girl_5 {
+        right: 20px;
+        top: -14px
+    }
+    .portmg_digital_product_heading {
+        padding: 0
+    }
+    .portmg_our_services_content_hedding_1 {
+        padding-left: 82px
+    }
+    .portmg_our_services_content_para_1 p {
+        font-size: 15px
+    }
+    .portmg_circle_section .portmg_circle_text.portmg_circle_text2 .portmg_text {
+        padding-top: 75px
+    }
+    .portmg_unique_image {
+        text-align: center
+    }
+    .main_card_banner_second_heading {
+        float: none;
+        text-align: center
+    }
+    .counter_cntnt_box {
+        padding-top: 25px
+    }
+    .portmg_form_content_text {
+        padding-left: 0;
+        margin-left: 0
+    }
+    .btn-resp {
+        text-align: center
+    }
+    .portmg_coming_soon_s3 .portmg_form_content_text_right {
+        padding-left: 0
+    }
+    .portmg_coming_soon_s2 .portmg_unique_content_right {
+        padding: 0
+    }
+    .column-labels label {
+        padding-left: 30px
+    }
+    .shopping-cart .product {
+        padding-top: 20px
+    }
+    .shopping-cart p {
+        padding-left: 35px
+    }
+    .check_out,
+    .shopping-cart .yellow-button_L {
+        float: left
+    }
+    .portmg_blog_01 .portmg-wrapper {
+        margin-bottom: 20px
+    }
+    .service-box-container h5 {
+        padding-left: 0;
+        font-size: 15px
+    }
+    .service-box {
+        left: 60px;
+        right: 0;
+        padding: 10px
+    }
+    .service-box h5 {
+        font-size: 18px;
+        padding: 0
+    }
+    .service-box p {
+        padding: 0;
+        font-size: 13px
+    }
+    ul.portmg_team_social li a {
+        margin: 10px 3px 0 0
+    }
+    .service-box h5 {
+        margin-top: 20px
+    }
+    .portmg_team_social {
+        padding: 0
+    }
+    .content-img {
+        padding-top: 10px
+    }
+    .portomega_product_sidebar_product img {
+        width: 100%
+    }
+    .select-dropdown .portomega-select-dropdown {
+        font-size: 12px
+    }
+    .product_content_detials {
+        margin-right: 0
+    }
+    .portomega_product_Left_heading .product_wrapper .product-post-wrapper .portomega_product_sidebar_product .entry-footer {
+        left: calc(35% - 20px)
+    }
+    .product_wrapper .portomega_product_sidebar_three_four_product .portomega_product_sidebar_product .entry-footer .entry-meta span.hits {
+        width: 50px
+    }
+    .product_wrapper .portomega_product_sidebar_three_four_product .portomega_product_sidebar_product .entry-footer .entry-meta span.post-comments-number {
+        width: 50px
+    }
+    .product_wrapper .portomega_product_sidebar_three_four_product .portomega_product_sidebar_product .product_content_title_R p {
+        padding-left: 2px
+    }
+    a.back-to-top {
+        bottom: 10px;
+        right: 50px
+    }
+    .portfolio_single_section .portfolio_content h3 {
+        font-size: 20px
+    }
+    .portfolio_single_section .portfolio_content h6 {
+        padding-top: 10px;
+        font-size: 15px
+    }
+    .portfolio_single_section .portfolio_content p {
+        padding: 0;
+        font-size: 14px
+    }
+    .porfolio_single_img img {
+        min-height: 475px
+    }
+    .portfolio-bdr-top {
+        margin-top: 50px
+    }
+    .content_text,
+    .content_text-03 {
+        padding: 10px 0
+    }
+    .portfolio_single_section .content_text:after {
+        height: calc(100% - 45px)
+    }
+    .content_text-1 {
+        padding-top: 10px
+    }
+    .portfolio_social {
+        padding: 0
+    }
+    .portmeg_gallery_wrapper .portfoli_inner .portfolio_item .portmg-gallery-tab img {
+        padding: 15px 8px
+    }
+    .portmeg_gallery_wrapper .portfolio_item .portfolio_hover p {
+        font-size: 13px;
+        padding-top: 0
+    }
+    .portmeg_gallery_wrapper .portfolio_item .portfolio_hover .port-zoom-poph3 {
+        line-height: 25px
+    }
+    .portfolio_single_section .portfolio_social ul li {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 16px
+    }
+    .reuirement-img {
+        padding-top: 30px
+    }
+    .portfolio_single_02_section {
+        padding: 50px 0
+    }
+    .portfolio_single_02_section .portfolio_content {
+        max-width: none;
+        padding-top: 40px
+    }
+    .requirement_text {
+        padding-bottom: 50px
+    }
+    .resp_pad {
+        padding-top: 20px
+    }
+    .content_text_02 {
+        padding-top: 10px
+    }
+    .img_pad_resp {
+        padding: 0;
+        padding-top: 10px;
+        text-align: center
+    }
+    .requirement_content {
+        padding: 0;
+        padding-top: 30px
+    }
+    .content_text-03,
+    .portfolio_single_03_section .content_text {
+        padding: 28px 0 5px 51px
+    }
+    .portfolio_single_03_section .portfolio_social ul li {
+        font-size: 25px;
+        margin-right: 20px
+    }
+    .portfolio_single_03_section .portfolio_social {
+        padding-left: 50px
+    }
+    .resp_pad {
+        padding-top: 20px;
+        padding-bottom: 70px
+    }
+    .content_resp:after {
+        display: none
+    }
+    .portfolio_our_section .portfolio_content {
+        max-width: none
+    }
+    .portfolio_single_03_section .content-img {
+        padding-top: 40px;
+        text-align: center
+    }
+    .portmeg_gallery_wrapper .portfolio_item .portfolio_hover .zoom_popup_right {
+        right: -25px
+    }
+    .padL_resp {
+        padding-left: 0
+    }
+    .requirement_btm_text {
+        padding-bottom: 30px
+    }
+    .requirement_text h4 {
+        padding-top: 20px;
+        padding-bottom: 40px
+    }
+    .interface_design_count_wrapper {
+        padding-top: 0
+    }
+    .interface_design_main_wrapper .portmg_digital_product_circle {
+        left: calc(41% - 34px)
+    }
+    .interface_quality_wrapper p {
+        margin-left: 39px;
+        margin-top: 115px
+    }
+    .interface_quality_wrapper {
+        margin-top: 15px
+    }
+    .interface-pera {
+        padding-top: 10px
+    }
+    .interface_design_wrapper {
+        padding-bottom: 40px
+    }
+    .portmg_professional_skill_section .portmg_professional_para {
+        padding-top: 15px
+    }
+    .about-bg-4 {
+        display: none
+    }
+    .princing_01_section .pricing_content {
+        margin-bottom: 20px
+    }
+    .princing_02_section .pricing_bestseller h4 {
+        font-size: 10px;
+        padding: 30px 5px
+    }
+    .princing_02_section .pricing_bestseller {
+        top: 15px;
+        right: 15px;
+        min-width: 50px;
+        min-height: 50px
+    }
+    .princing_02_section .pricing_numeric_text {
+        top: 13%
+    }
+    .princing_02_section .pricing-shape-header {
+        min-height: 159px
+    }
+    .princing_02_section .pricing_content {
+        max-width: 365px;
+        margin: 20px auto
+    }
+    .princing_03_section .pricing_content {
+        margin-bottom: 20px
+    }
+    .princing_03_section .pricing-shape-circle img {
+        left: 155px
+    }
+    .princing_01_section .pricing_numeric_text h3 sup {
+        left: 150px
+    }
+    .princing_01_section .pricing-shape img {
+        max-height: 100px;
+        width: 100%
+    }
+    .princing_03_section .pricing_bestseller {
+        right: 14px
+    }
+    .portmg_aboutRight_content span img {
+        margin-top: 20px;
+    }
+    .portomega-our-team-member-details-plus1:after,
+    .portomega-our-team-member-details-plus2:after,
+    .portomega-our-team-member-details-plus3:after,
+    .portomega-our-team-memberdetail a,
+    .portomega-our-team-memberdetail h5 {
+        font-size: 14px
+    }
+    .portomega-our-team-memberdetail P {
+        font-size: 12px
+    }
+    .portomega-our-team-memberdetail {
+        padding: 10px 10px 0
+    }
+    .portomega-iconbox {
+        margin-top: 5px
+    }
+    .main_card_banner_second_heading {
+        float: none;
+        text-align: center
+    }
+    .portomega-our-team-member-details-plus1 {
+        left: 130px
+    }
+    .portomega-our-team-member-details-plus2 {
+        left: 86px
+    }
+    .portomega-our-team-member-details-plus3 {
+        left: 54px
+    }
+    .portomega-our-team-member-details-detail4 {
+        left: -74px
+    }
+    .portomega-our-team-member-details-detail1 {
+        left: 18%
+    }
+    .portomega-our-team-member-details-detail2 {
+        left: -12px
+    }
+    .portomega-our-team-member-details-detail3 {
+        left: -42px
+    }
+    .portomega-our-team-member-details-detail4 {
+        left: -55px
+    }
+    .portomega-our-team-member-details-plus1:after,
+    .portomega-our-team-member-details-plus2:after,
+    .portomega-our-team-member-details-plus3:after,
+    .portomega-our-team-member-details-plus4:after {
+        min-height: 140px
+    }
+    .portomega_product_border h5 {
+        padding-left: 20px
+    }
+    .portomega_product_left_Sidebar {
+        padding-top: 20px;
+        padding-left: 0
+    }
+    .portmg_border_right {
+        border: none
+    }
+    .portmg_square_section .portmg_square_text {
+        padding-top: 60px;
+        padding-left: 40px
+    }
+    .portmg_square_section img {
+        width: 100%
+    }
+    .portomega_product_rSidebar {
+        padding-bottom: 55px
+    }
+    .portomega_product_rSidebar h6 {
+        text-align: left
+    }
+    .coming_soon_2 .coming_soon_remainSec:before {
+        max-width: 790px
+    }
+    .coming_soon_2 .comimg_soon_portmg_main_testimonial_image {
+        top: 82px;
+        left: 42%
+    }
+    .coming_soon_2 .coming_soon_email_notify form {
+        padding-bottom: 70px
+    }
+    .coming_soon_button_wrapper .coming_soon_header_btn a {
+        padding: 0px 20px;
+        margin-right: 0
+    }
+    .coming_soon_content {
+        padding-top: 75px
+    }
+    .coming_soon_service_box {
+        padding-left: 0
+    }
+    .product__heading {
+        margin-left: 20px
+    }
+    .portomega_product_Left_heading h6 {
+        font-size: 16px
+    }
+    .widget-blog-wrapper article h5 {
+        font-size: 15px
+    }
+    .portmg_form_btn_content {
+        margin-bottom: 0
+    }
+    .coming_soon_remainSec {
+        width: 100%;
+        left: 10px
+    }
+    .coming_soon_remainSec .remaining p {
+        font-size: 12px
+    }
+    .coming_soon_remainSec h2 span {
+        font-size: 30px
+    }
+    .showcase-toogle .toggle_plus {
+        right: 135px
+    }
+    .portmeg_gallery_wrapper .portfolio_item .portfolio_hover .zoom_popup_right {
+        bottom: 45px
+    }
+    .fa-external-link-alt {
+        font-size: 18px;
+        margin-right: 35px
+    }
+    .external__link {
+        font-size: 16px;
+        margin-top: 2px;
+        margin-right: 32px
+    }
+    .external__link2 {
+        margin-right: 10px;
+        margin-top: 0
+    }
+    .external-link-alt-2 {
+        left: -31px
+    }
+    .coming_soon_2 .coming_soon_remainSec {
+        left: 0;
+        padding: 10px 70px 10px
+    }
+    .portmg_main_dash_image {
+        display: none
+    }
+    .coming_soon_2 .coming_soon_email_notify form input[type=email] {
+        margin-left: 0;
+        max-width: 475px;
+    }
+    .coming_soon_2 .coming_soon_email_notify form button {
+        right: 20%;
+    }
+    .product-quantity .portmega_minus,
+    .product-quantity .portmega_plus {
+        right: 275px
+    }
+    .product-quantity .portmega_minus {
+        top: 25px
+    }
+    .portmg_form_content_text {
+        position: relative
+    }
+    .portmg_form_bg_03 {
+        right: -145px
+    }
+    .portmg_form_content_text {
+        z-index: 0
+    }
+    .blog-content1 {
+        padding: 47px 30px
+    }
+    .portmg_blog .portmg-wrapper:hover.iner_blog2 .blog-content1 {
+        margin-bottom: 20px
+    }
+    .portmeg_gallery_wrapper .portfolio_item .portfolio_hover .zoom_popup__2 {
+        top: 23%
+    }
+    .portmg_circle_section .portmg_circle_content {
+        margin-right: 0
+    }
+    .external_link_alt4 {
+        margin-right: 16px;
+        margin-top: 3px;
+        font-size: 16px
+    }
+    .about_slution_tab .nav-tabs .nav-link {
+        font-size: 13px!important;
+        padding: 18px 20px
+    }
+    .coming_soon_content_1 h4 {
+        font-size: 60px
+    }
+    .bubble_three span {
+        width: 90px;
+        height: 90px
+    }
+    .coming_soon_2#fullpage ul.social {
+        margin-top: 40px
+    }
+    .about-us-h3-bg{
+        display:none;
+    }
+    .footer_btn_5{
+        bottom: 31px;
+    }
+    .external_show_link {
+         right: -100px;
+    }
+}
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+    .slider-area .carousel-inner .carousel-item .caption-1 {
+        min-height: auto
+    }
+    .slider-area .carousel-inner .carousel-item .carousel-captions .content {
+        padding-top: 250px;
+        text-align: center
+    }
+    .slider-area .carousel-inner .carousel-item .carousel-captions .content h2 {
+        font-size: 80px
+    }
+    .portmeg_work_morebtn {
+        text-align: center;
+        float: none;
+        padding-top: 20px;
+        margin-top: 0;
+        margin-bottom: 20px
+    }
+    section.portmg_about_us .portmg_about_pad_01 {
+        padding: 10px 0px;
+    }
+    .portmg_unique_wrrapper_section .portmg_unique_wrrapper_first_part,
+    .portmg_about_us_first_part {
+        position: relative;
+    }
+    .portmg_form_btn_content {
+        margin-bottom: 0
+    }
+    .landing_page_text {
+        text-align: center;
+    }
+    .portmg_form_right_content {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .widget-blog-wrapper article h5 {
+        font-size: 14px
+    }
+    .widget .site-logo,
+    .widget h4 {
+        margin-top: 10px
+    }
+    .count-description h5 {
+        padding-bottom: 30px
+    }
+    .portmg_aboutme_progress,
+    section.portmg_about_us .portmg_right_1 p {
+        padding: 0px 100px;
+    }
+    .heading_style1,
+    .learn_btn,
+    .portmg_aboutRight_content,
+    .portmg_form_btn_content,
+    .portmg_unique_header_para ul,
+    .portmg_unique_wrrapper_section {
+        text-align: center
+    }
+    .portmg_professional_skill_section .get_btn {
+        text-align: center
+    }
+    .portmg_unique_header_para ul li {
+        text-align: left
+    }
+    #main-footer .upper-footer {
+        padding-bottom: 60px
+    }
+    a.back-to-top {
+        bottom: 20px;
+        right: 20px
+    }
+    .portmg_team_slider .col-lg-12 {
+        padding: 0
+    }
+    .portmg_team_member_text P {
+        font-size: 14px;
+        padding-top: 10px
+    }
+    .main_slider_wrapper-2 .carousel-inner .carousel-item .carousel-captions .content {
+        padding-top: 165px;
+        padding-bottom: 0
+    }
+    .main_slider_wrapper-2 .cp_shape_top.mask_with_girl img {
+        max-width: 640px
+    }
+    .main_slider_wrapper-2 .cp_shape_top {
+        position: inherit
+    }
+    .main_slider_wrapper-2 .cp_shape_top.mask_with_girl {
+        right: 10%;
+        top: -10%
+    }
+    .bubble_two span {
+        bottom: -15%
+    }
+    .portmg_digital_product_section .portmg_digital_product_content .portmg_digital_product_heading h2 {
+        font-size: 25px
+    }
+    section.portmg_about_us .portmg_aboutLeft_img {
+        padding-bottom: 15px
+    }
+    .main_slider_wrapper-2 .portmg_digital_product_circle {
+        top: calc(40% - 34px)
+    }
+    .form_btn_04,
+    .portmeg_work_morebtn {
+        text-align: center
+    }
+    .portmeg_portfolio_gallery .heading_style1 {
+        margin-bottom: 0
+    }
+    .portmg_team_section .portmg_team_member_text {
+        min-height: 230px
+    }
+    .portmg_team_section .portmg_team_member_pic img {
+        min-width: 170px
+    }
+    .portmg_team_section .portmg_team_member_pic {
+        position: absolute;
+        right: 20px
+    }
+    .portmg_team_section .portmg_wrap {
+        top: 48%;
+        width: calc(22% - 8px);
+        right: 100px
+    }
+    .main_slider_wrapper_3 .carousel-inner .carousel-item .carousel-captions .content h3:before {
+        left: 100px
+    }
+    .portmg_professional_skill_section .portmg_professional_bdr {
+        display: none
+    }
+    .portmg_professional_img img {
+        width: 100%
+    }
+    .portmeg_gallery_wrapper .portfolio_item .portfolio_hover .zoom_popup {
+        padding: 30px 30px
+    }
+    .main_card_banner_second_heading {
+        float: none;
+        text-align: center
+    }
+    #main-footer ul.social,
+    ul.footer-menu {
+        float: left
+    }
+    ul.footer-menu li a {
+        font-size: 14px;
+        padding-right: 25px;
+        margin-left: 0
+    }
+    .upper-footer .widget p,
+    .widget ul li a {
+        font-size: 12px
+    }
+    .upper-footer .stylish-sticky-button {
+        padding: 0px 50px 0px 30px;
+        right: -50px;
+        font-size: 12px
+    }
+    .upper-footer .btn-style1.gradient-button {
+        padding: 0 30px;
+        right: -65px
+    }
+    .portmg_digital_product_section .prs_video_sec_icon_wrapper .portmg_digital_product_circle_4 {
+        margin-top: 40px
+    }
+    .portmg_our_services_section .portmg_our_services_social {
+        min-height: 430px;
+        max-width: 425px;
+        margin: -15px auto
+    }
+    .portmg_our_services_section .portmg_our_services_logo {
+        width: 48%
+    }
+    .portmg_our_services_section .faltmobile,
+    .portmg_our_services_section .flatfork,
+    .portmg_our_services_section .flatmeter {
+        width: 65px;
+        height: 65px;
+        padding-top: 15px;
+        font-size: 32px
+    }
+    .portmg_our_services_section .flatfork {
+        left: -5%
+    }
+    .portmg_our_services_section .portmg_social_text,
+    .portmg_our_services_section .portmg_social_text1,
+    .portmg_our_services_section .portmg_social_text2 {
+        font-size: 15px
+    }
+    .portmg_our_services_section .portmg_social_text1 {
+        top: 13%;
+        left: -16%
+    }
+    .portmg_our_services_section .portmg_social_text2 {
+        top: 45%;
+        left: -18%
+    }
+    .portmg_our_services_section .flatclock,
+    .portmg_our_services_section .flatfubol,
+    .portmg_our_services_section .flatglobe {
+        width: 65px;
+        height: 65px;
+        padding-top: 15px;
+        font-size: 32px
+    }
+    .portmg_our_services_section .flatclock {
+        right: -5%
+    }
+    .portmg_our_services_section .portmg_social_text3,
+    .portmg_our_services_section .portmg_social_text4,
+    .portmg_our_services_section .portmg_social_text5 {
+        font-size: 15px
+    }
+    .portmg_our_services_section .portmg_social_text4 {
+        top: 13%;
+        right: -15%
+    }
+    .portmg_our_services_section .portmg_social_text5 {
+        top: 45%;
+        right: -18%
+    }
+    .main_slider_wrapper_6.slider-area .carousel-inner .carousel-item .caption-1,
+    .slider-area .carousel-inner .carousel-item .caption-2,
+    .slider-area .carousel-inner .carousel-item .caption-3 {
+        width: 100%;
+        height: 100%;
+        position: relative;
+        min-height: 0
+    }
+    .main_slider_wrapper_6.slider-area .carousel-inner .carousel-item .carousel-captions .content {
+        padding-bottom: 65px
+    }
+    .footer-newsletter {
+        margin-bottom: 50px;
+        padding: 30px
+    }
+    .get_started_section {
+        padding: 40px 0
+    }
+    .portmg_gallery_slider_wrapper .owl-next span,
+    .portmg_gallery_slider_wrapper .owl-prev span {
+        font-size: 16px;
+        padding: 15px;
+        line-height: 10px
+    }
+    .heading_404 {
+        margin-top: 40px;
+        text-align: center
+    }
+    .portfolio_single_02_section .portfolio_content {
+        padding-top: 30px
+    }
+    .porotmega-blog-author {
+        text-align: center
+    }
+    .portmg_blog .blog_related_item.owl-theme .owl-nav {
+        bottom: 660px
+    }
+    .main_slider_wrapper_5 .bubble_5 {
+        left: 183px;
+        bottom: 540px
+    }
+    .main_slider_wrapper_5 .mask_with_girl_5 {
+        display: none
+    }
+    .main_slider_wrapper_5.slider-area .carousel-inner .carousel-item .carousel-captions .content h4:before {
+        left: -5%;
+        top: 41%
+    }
+    .mask_with_girl_5 {
+        right: 20px;
+        top: -308px
+    }
+    .main_slider_wrapper_5 .down_img {
+        bottom: -100px
+    }
+    .heading_style1 h3 {
+        font-size: 25px
+    }
+    .btn-resp,
+    .heading_style1 {
+        text-align: center
+    }
+    .more_btn5 {
+        text-align: center;
+        margin-top: 0;
+        margin-bottom: 30px;
+        float: none
+    }
+    .portmg_right_about_me {
+        padding-left: 0px;
+    }
+    .portmg_digital_product_heading {
+        padding: 0
+    }
+    .portomega-faq-heading {
+        margin-top: 10px
+    }
+    .portmg_our_services_content_1 {
+        padding: 10px
+    }
+    .portmg_our_services_content_hedding_1 {
+        padding-left: 70px
+    }
+    .portmg_services_section_05 .portmg_our_services_content_hedding_1 span {
+        top: 7px;
+        left: 15px
+    }
+    .portmg_services_section_05 .portmg_our_services_content_hedding_1 h4 {
+        font-size: 15px;
+        padding-top: 10px
+    }
+    .heading_style1 {
+        margin-bottom: 30px
+    }
+    .portmg_our_services_content_para_1 p {
+        font-size: 14px
+    }
+    .portmg_our_services_content_para_1 {
+        padding-top: 40px
+    }
+    .portmg_circle_section .portmg_circle_content:hover .portmg_circle_text {
+        top: 0
+    }
+    .portmg_circle_section .portmg_circle_text.portmg_circle_text2 .portmg_text {
+        padding-top: 55px
+    }
+    .portmg_circle_section .portmg_text p {
+        padding-bottom: 0
+    }
+    .portmg_circle_section_2 .portmg_circle_text {
+        top: 150px
+    }
+    .portmg_circle_section_2 .portmg_circle_content:hover .portmg_circle_text {
+        top: 25%
+    }
+    .portmg_circle_section .portmg_circle_content {
+        margin-right: 0
+    }
+    .counter_cntnt_box {
+        padding-top: 25px
+    }
+    .main_card_banner_second_heading {
+        float: none;
+        text-align: center
+    }
+    .portmg_border_right {
+        border: none
+    }
+    .portmg_form_content_text {
+        padding: 50px 0
+    }
+    .column-labels label {
+        padding-left: 40px
+    }
+    .shopping-cart p {
+        padding-left: 0
+    }
+    .product-quantity {
+        padding-left: 100px
+    }
+    .shopping-cart .product {
+        padding-top: 20px
+    }
+    .cart_bo,
+    .shopping-cart .yellow-button_L {
+        float: left
+    }
+    .simple_btn .simple_btn_btn {
+        padding-right: 50px
+    }
+    .portmg_blog_01 .portmg-wrapper {
+        margin-bottom: 20px
+    }
+    .portomega_blog_03 .portmg-wrapper .blog-content2 {
+        margin-top: -20px
+    }
+    .portomega_blog_04 .portmg-wrapper .entry-title {
+        font-size: 18px
+    }
+    .textmonial_03 .portmg_main_testimonial_para {
+        padding-left: 0;
+        padding-top: 0
+    }
+    .service-box-container {
+        margin-top: 20px
+    }
+    .service-box-lefticon {
+        left: 7%;
+        font-size: 40px
+    }
+    .service-box {
+        left: 125px
+    }
+    .portomega_product_Left_heading .product_wrapper .product-post-wrapper .portomega_product_sidebar_product .entry-footer {
+        left: 20%
+    }
+    .portomega_product_sidebar_product img {
+        width: 100%
+    }
+    .select-dropdown .portomega-select-dropdown {
+        font-size: 10px
+    }
+    .product_content_detials {
+        margin-right: 0
+    }
+    .product_content_detials h6 {
+        padding-top: 0;
+        padding-left: 0;
+        margin-top: 0
+    }
+    .portomega_product_rSidebar h6 {
+        text-align: left
+    }
+    .about_slution_tab .nav-tabs .nav-link {
+        padding: 20px 180px
+    }
+    .bottom-footer ul.footer-menu li a {
+        padding-right: 14px
+    }
+    .portmg_blog .post-thumbnail img {
+        max-height: inherit
+    }
+    .interface_design_count_wrapper {
+        padding-top: 10px
+    }
+    .interface_quality_wrapper p {
+        margin-left: 40px;
+        margin-top: 130px
+    }
+    .interface_quality_wrapper {
+        margin-top: 15px
+    }
+    .interface-pera {
+        padding-top: 0
+    }
+    .interface-pera p {
+        font-size: 12px
+    }
+    .interface_design_wrapper {
+        padding-bottom: 40px
+    }
+    .portfolio_single_section {
+        padding-bottom: 30px
+    }
+    .content_text,
+    .content_text-03 {
+        padding: 28px 0 5px 0
+    }
+    .portfolio_single_section .content_text h5,
+    .portfolio_single_section .content_text-1 h5 {
+        font-size: 16px
+    }
+    .portfolio_single_section .content_text:after {
+        height: calc(100% - 168px);
+        right: 4px
+    }
+    .content_text-1 {
+        padding-left: 0
+    }
+    .portfolio_social {
+        padding-left: 0
+    }
+    .requirement_header_text {
+        padding-bottom: 30px
+    }
+    .reuirement-img {
+        padding-top: 40px
+    }
+    .portfolio_requirement_section .btn-prev {
+        text-align: center
+    }
+    .portfolio_requirement_section .btn-next {
+        text-align: center
+    }
+    .portmeg_gallery_wrapper {
+        padding: 60px 0
+    }
+    .portfolio_item_2 {
+        padding-top: 0
+    }
+    .portmeg_gallery_wrapper .portfoli_inner .portfolio_item img {
+        min-height: 0
+    }
+    .porfolio_single_img {
+        padding-bottom: 10px
+    }
+    .showcase_slider_wrapper {
+        margin-top: -270px
+    }
+    .portfolio_single_02_section {
+        padding-top: 50px;
+        padding-bottom: 0
+    }
+    .requirement_text h4 {
+        padding-top: 20px;
+        padding-bottom: 40px
+    }
+    .requirement_text h5 {
+        padding-bottom: 20px
+    }
+    .resp_pad {
+        padding-top: 20px
+    }
+    .content_text_02 {
+        padding-top: 10px
+    }
+    .img_pad_resp {
+        padding: 0;
+        padding-top: 30px
+    }
+    .requirement_content {
+        padding-bottom: 20px;
+        padding-top: 30px
+    }
+    .princing_01_section .pricing_content ul li:after {
+        left: 33%
+    }
+    .princing_01_section .pricing_header_btn .btn-1 {
+        padding: 10px 25px
+    }
+    .content_text-03,
+    .portfolio_single_03_section .content_text {
+        padding: 28px 0 5px 30px
+    }
+    .portfolio_single_03_section .content_text:after {
+        height: 0
+    }
+    .portfolio_single_03_section .portfolio_social ul li {
+        font-size: 25px;
+        margin-right: 20px
+    }
+    .portfolio_single_03_section .portfolio_social {
+        padding-left: 30px
+    }
+    .resp_pad {
+        padding-bottom: 20px
+    }
+    .portmg_professional_skill_section .portmg_professional_para {
+        padding-top: 15px;
+        text-align: center
+    }
+    .about-bg-4 {
+        display: none
+    }
+    .portmg_professional_skill_section .portmg_professional_bdr {
+        margin-top: 0
+    }
+    .contact_btn img {
+        margin-right: 0
+    }
+    .princing_01_section .pricing_numeric_text h3:after {
+        left: 80px
+    }
+    .princing_02_section .pricing_bestseller h4 {
+        font-size: 10px;
+        padding: 34px 10px
+    }
+    .princing_02_section .pricing_bestseller {
+        top: 15px;
+        right: 15px;
+        min-width: 50px
+    }
+    .princing_02_section .pricing_numeric_text {
+        top: 14%;
+        left: 40%
+    }
+    .princing_02_section .pricing-shape-circle img {
+        left: 15%
+    }
+    .princing_02_section .pricing_content ul li {
+        font-size: 14px
+    }
+    .princing_02_section .pricing_content {
+        max-width: 365px;
+        margin: 20px auto
+    }
+    .pricing-shape-header-1 img {
+        width: 100%;
+        max-height: 165px
+    }
+    .princing_01_section .pricing_content {
+        margin-bottom: 20px
+    }
+    .princing_02_section .pricing_header_btn .btn-1 {
+        padding: 10px 20px
+    }
+    .princing_03_section .pricing-shape-circle img {
+        left: 15%
+    }
+    .princing_03_section .pricing_content {
+        max-width: 365px;
+        margin: 20px auto
+    }
+    .princing_03_section .pricing_content ul li {
+        font-size: 14px
+    }
+    .princing_03_section .pricing_numeric_text {
+        top: 13%;
+        left: 38%
+    }
+    .portomega-our-team-member-details-detail1 {
+        left: 29%
+    }
+    .portomega-our-team-member-details-detail2 {
+        left: 5px
+    }
+    .portomega-our-team-member-details-detail3 {
+        left: -15px
+    }
+    .portomega-our-team-member-details-detail4 {
+        left: -54px;
+        top: 25%
+    }
+    .portomega-our-team-member-details-plus1 {
+        left: 100px;
+        top: 40px
+    }
+    .princing_01_section .pricing-shape img {
+        max-height: 100px;
+        width: 100%
+    }
+    .portomega-our-team-member-details-plus1:after,
+    .portomega-our-team-member-details-plus2:after,
+    .portomega-our-team-member-details-plus3:after,
+    .portomega-our-team-member-details-plus4:after {
+        min-height: 110px
+    }
+    .portomega-our-team-member-details-plus4 {
+        left: 3%;
+        top: 58px
+    }
+    .portomega-our-team-member-details-plus2 {
+        left: 62px
+    }
+    .portomega-our-team-member-details-plus3 {
+        left: 40px
+    }
+    .portomega-our-team-memberdetail a,
+    .portomega-our-team-memberdetail h5 {
+        font-size: 10px
+    }
+    .portomega-our-team-memberdetail P {
+        font-size: 12px
+    }
+    .portomega-our-team-memberdetail {
+        padding: 10px 10px 0;
+        width: 150px
+    }
+    .portomega-boxset {
+        width: 30px;
+        height: 30px;
+        padding: 0 0
+    }
+    .portomega-iconbox {
+        margin-top: 5px
+    }
+    .portomega-our-team-member-details-detail1 {
+        top: 25px
+    }
+    .portmg_form_right_content .button {
+        text-align: center
+    }
+    .product_img_slider_item.owl-carousel .owl-nav button.owl-next {
+        top: -52px;
+        right: 3%
+    }
+    .product_img_slider_item.owl-carousel .owl-nav button.owl-prev {
+        top: -52px;
+        right: 20%
+    }
+    .portomega_product_border h5 {
+        font-size: 15px;
+        padding-left: 20px
+    }
+    .portomega_product_left_Sidebar {
+        padding-top: 20px;
+        padding-left: 0
+    }
+    .portomega-item-quantity {
+        padding-left: 40px
+    }
+    .portomega_product_side_bar .select-dropdown .portomega-select-dropdown {
+        font-size: 14px
+    }
+    .product_wrapper .product-post-wrapper .sidebar-r .entry-footer {
+        left: calc(45% - 40px)
+    }
+    .testimonial_03_row {
+        padding: 0
+    }
+    .get_started_text {
+        padding: 0;
+        text-align: center
+    }
+    .coming_soon_2 .coming_soon_remainSec:before {
+        max-width: 600px
+    }
+    .coming_soon_2 .comimg_soon_portmg_main_testimonial_image {
+        top: 82px;
+        left: 42%
+    }
+    .coming_soon_2 .coming_soon_email_notify form {
+        padding-bottom: 70px
+    }
+    .coming_soon_email_notify form button {
+        margin-left: 0;
+        float: right;
+        top: -55px
+    }
+    .coming_soon_button_wrapper .xt_logo_wrapper {
+        margin-top: 30px
+    }
+    #main-footer ul.social,
+    .coming_soon_button_wrapper ul.footer-menu {
+        padding-top: 40px;
+        margin-left: -20px
+    }
+    .coming_soon_button_wrapper .coming_soon_header_btn a {
+        margin-right: 70px
+    }
+    .portmg_coming_soon_s3 .coming_soon_button_wrapper .coming_soon_header_btn a {
+        margin-right: 103px
+    }
+    .coming_soon_remainSec .remaining p {
+        font-size: 12px
+    }
+    .coming_soon_remainSec:before {
+        max-height: 145px
+    }
+    .coming_soon_2 .coming_soon_email_notify form button {
+        margin-left: 0;
+        right: 110px;
+        top: 0;
+    }
+    .portomega_product_Left_heading h6 {
+        margin-top: 0
+    }
+    .product__heading {
+        margin-left: 20px
+    }
+    .coming_soon_remainSec {
+        width: 100%;
+        left: 10px;
+        padding: 0 40px 0 40px
+    }
+    .coming_soon_remainSec .remaining p {
+        font-size: 12px
+    }
+    .coming_soon_remainSec h2 span {
+        font-size: 30px
+    }
+    .coming_soon_remainSec .remaining {
+        margin-top: 10px;
+        margin-bottom: 30px
+    }
+    .coming_soon_content_1 input {
+        width: 100%
+    }
+    .portmg_form_content_text,
+    .portmg_left_form {
+        position: relative
+    }
+    .overlay-content {
+        left: 20px
+    }
+    .showcase-toogle .toggle_plus,
+    .toggle_plus {
+        right: 110px
+    }
+    .portmeg_gallery_wrapper .portfolio_item .portfolio_hover .popup__right .port-zoom-poph3 {
+        font-size: 15px
+    }
+    .portmeg_gallery_wrapper .portfolio_item .portfolio_hover .zoom_popup_right {
+        right: -35px
+    }
+    .fa-external-link-alt {
+        margin-right: 45px
+    }
+    .external__link {
+        margin-right: 32px;
+        margin-top: 4px
+    }
+    .popup__external_link {
+        margin-right: 12px;
+        font-size: 16px;
+        margin-top: 7px
+    }
+    .external__link2 {
+        margin-right: 10px;
+        margin-top: 5px;
+        font-size: 18px
+    }
+    .coming_soon_2 .coming_soon_remainSec {
+        left: 0;
+        padding: 10px 70px 10px;
+    }
+    .portmg_main_dash_image {
+        display: none
+    }
+    .product-quantity .portmega_minus,
+    .product-quantity .portmega_plus {
+        right: 190px
+    }
+    .product-quantity .portmega_minus {
+        top: 25px
+    }
+    .portmg_form_bg_03 {
+        right: -126px
+    }
+    .simple_btn {
+        margin-bottom: 20px;
+        margin-top: 40px
+    }
+    .portmg_blog .portmg-wrapper:hover.iner_blog2 .blog-content1 {
+        margin-bottom: 20px
+    }
+    .portmg_form_content_text_right {
+        padding: 60px 0px;
+    }
+    .external_link__2 {
+        left: -40px
+    }
+    .external_link_alt4 {
+        margin-right: 25px
+    }
+    .portomega_product_Left_sidebar .select-dropdown:after {
+        right: 0
+    }
+    .home_portmg_team_section .portmg_team_member_text h5 {
+        font-size: 12px
+    }
+    .home_portmg_team_section .portmg_team_member_text h4 {
+        font-size: 15px
+    }
+    .home_portmg_team_section .portmg_wrap {
+        top: 52%
+    }
+    .home_portmg_team_section .portmg_team_member_pic img {
+        min-width: 150px
+    }
+    .home_portmg_team_section .portmg_team_member_pic {
+        right: 0
+    }
+    .heading_style1.portmg_aboutdots.marL50 {
+        margin-left: 0
+    }
+    .portmg_form_section_2 .portmg_form_content_text {
+        padding-bottom: 15px;
+    }
+    .portmg_blog .portmg-wrapper .blog-content .entry-header .entry-meta .posted-in:after {
+        top: 3px
+    }
+    .portmg_our_services_content_03:hover {
+        padding: 35px
+    }
+    .portmg_our_services_content_hedding_03 h4 {
+        margin-top: 10px;
+        margin-left: 20px
+    }
+    .portmg_our_services_content_hedding span {
+        top: -15px;
+        right: -10px
+    }
+    .portmg_aboutRight_content .portmg_about_btn_3 .about__img {
+        display: none
+    }
+    hr {
+        display: none!important;
+    }
+    .portmg_about_serviceItem {
+        padding: 0px 10px;
+    }
+    .portmg_contect_bg_02,
+    .portmg_round_05_bg,
+    .portmg_round_bg_04,
+    .portmg_round_bg_03,
+    .portmg_round_bg {
+        left: 0px;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 991px) {
+    .coming_soon_2 .portmg_coming_soon_s1 {
+        padding: 50px 0;
+    }
+    .coming_soon_email_02 {
+        display: block;
+        margin-top: 50px
+    }
+    .coming_soon_2#fullpage ul.social {
+        float: none;
+        padding-bottom: 30px;
+        margin-top: 50px;
+        visibility: visible
+    }
+    .coming_soon_2 .coming_soon_email_notify form {
+        padding-top: 0;
+        padding-bottom: 0;
+        margin: 0 45px;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .portmg_coming_soon .portmg_coming_soon_s2 .coming_soon_button_wrapper {
+        display: none;
+    }
+    .portmg_coming_soon .portmg_coming_soon_s2 .portfolio_overlay_comingsoon {
+        top: 0;
+    }
+    .portmg_coming_soon .portmg_coming_soon_s3 .coming_soon_service_box {
+        padding-left: 0;
+    }
+    .portmg_coming_soon .portmg_coming_soon_s3 .service-box {
+        left: 25%;
+    }
+    .portmg_coming_soon .portmg_coming_soon_s3 .service-box p {
+        padding-left: 0;
+    }
+    .portmg_coming_soon .portmg_coming_soon_s3 .portmg_team_social li a {
+        margin-right: 10px !important;
+    }
+    .portmg_about_me .portmg_aboutLeft_img img {
+        display: none;
+    }
+    .portmg_about_me .portmg_about_us_first_part {
+        padding: 0px;
+    }
+    .coming_soon_email2_02 {
+        display: none;
+    }
+    .stylish-form_5 input{
+         padding: 5px 25px;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 575px) {
+    .slider-area .carousel-inner .carousel-item .caption-1 {
+        min-height: auto
+    }
+    .slider-area .carousel-inner .carousel-item .carousel-captions .content {
+        text-align: center
+    }
+    .cp_shape_top {
+        display: none
+    }
+    .slider-area .carousel-inner .carousel-item .carousel-captions .content h2 {
+        font-size: 45px
+    }
+    .slider-area .carousel-inner .carousel-item .carousel-captions .content p {
+        font-size: 14px;
+        margin: -10px 0
+    }
+    .portmg_form_btn_content {
+        margin-bottom: 0
+    }
+    .portmeg_work_morebtn {
+        float: none;
+        text-align: center;
+        padding-top: 0;
+        margin-top: -30px;
+        margin-bottom: 60px
+    }
+    .portmg_blog .portmg-wrapper {
+        margin-bottom: 255px
+    }
+    .count-description h5 {
+        padding-bottom: 30px
+    }
+    .heading_style1,
+    .portmg_aboutRight_content,
+    .portmg_digital_product_heading,
+    .portmg_form_btn_content,
+    .portmg_professional_skill_section .get_btn,
+    .portmg_unique_header_para,
+    .portmg_unique_header_para ul {
+        text-align: center
+    }
+    .portmg_main_testimonial_heading p,
+    .textmonial_01 .portmg_main_testimonial_text {
+        font-size: 14px;
+        padding-top: 0
+    }
+    .portmg_main_testimonial_para p {
+        font-size: 12px
+    }
+    .widget h4 {
+        margin-top: 30px
+    }
+    #main-footer ul.social {
+        float: left;
+        padding-top: 10px
+    }
+    #main-footer .upper-footer {
+        padding-bottom: 60px
+    }
+    #main-footer.footer-style3 .upper-footer {
+        padding-top: 0
+    }
+    .portmg_form_content_text_right {
+        padding: 60px 0px
+    }
+    .heading_style1 h3 {
+        font-size: 26px
+    }
+    p {
+        font-size: 14px;
+        padding-top: 10px
+    }
+    .portmg_unique_header_para ul li {
+        text-align: left;
+        font-size: 14px
+    }
+    .portmg_team_section .portmg_wrap {
+        top: 45%;
+        width: calc(22% - 20px);
+        right: 0
+    }
+    .portmg_blog .post-thumbnail img {
+        max-height: none
+    }
+    .portmg_blog.remove_bottom_pad {
+        padding-bottom: 0
+    }
+    a.back-to-top {
+        bottom: 40px;
+        right: 30px
+    }
+    .heading_style1 h4 {
+        font-size: 16px
+    }
+    .portmg_digital_product_content {
+        padding-top: 40px
+    }
+    .main_slider_wrapper-2.slider-area .carousel-inner .carousel-item .carousel-captions .content h3 {
+        font-size: 40px
+    }
+    .main_slider_wrapper-2.slider-area .carousel-inner .carousel-item .carousel-captions .content h2 {
+        font-size: 20px;
+    }
+    .slider-area .carousel-inner .carousel-item .carousel-captions .content {
+        padding-top: 185px;
+        padding-bottom: 165px
+    }
+    .bubble_two span {
+        bottom: 15%
+    }
+    .main_slider_wrapper-2 .cp_shape_top.mask_with_girl {
+        right: 10%;
+        margin-top: -40%
+    }
+    .main_slider_wrapper-2 .cp_shape_top.mask_with_girl img {
+        width: calc(100% + 89px)
+    }
+    .main_slider_wrapper-2 .cp_shape_top {
+        position: inherit
+    }
+    .main_slider_wrapper-2 .mask_with_girl {
+        display: block
+    }
+    .bubble_one span {
+        top: 12%;
+        right: 5%
+    }
+    .main_slider_wrapper_3 .carousel-inner .carousel-item .carousel-captions .content h3 {
+        font-size: 18px;
+        padding-left: 50px
+    }
+    .main_slider_wrapper_3 .carousel-inner .carousel-item .carousel-captions .content h3:before {
+        width: 55px;
+        left: 50px
+    }
+    .main_slider_wrapper_3 .carousel-inner .carousel-item .carousel-captions .content h2 {
+        line-height: 1.1;
+        margin: 10px 0
+    }
+    .portmg_unique_count_03 {
+        padding: 42px 0
+    }
+    .portmg_unique_wrrapper_section_03 .portmg_unique_content_right {
+        padding: 0 20px
+    }
+    .portmg_our_services_content_para_03 h4 {
+        font-size: 16px;
+        margin-left: 18px
+    }
+    .portmg_our_services_content_para_03 p {
+        margin: 10px 20px;
+        font-size: 13px
+    }
+    .portmg_our_services_content_hedding_03 h4 {
+        font-size: 16px;
+        margin: 30px 15px
+    }
+    .portmg_our_services_content_03 {
+        margin: 15px 20px
+    }
+    .portmg_team_section .portmg_team_member_text h4 {
+        font-size: 14px
+    }
+    .portmg_team_section .portmg_team_member_text p {
+        margin-top: 0;
+        font-size: 12px
+    }
+    .portmg_team_section .portmg_team_member_text {
+        min-height: 200px
+    }
+    .portmg_team_section .portmg_team_member_pic img {
+        min-width: 130px
+    }
+    .portmg_team_section .portmg_team_member_pic {
+        position: absolute;
+        right: -10px
+    }
+    .bubble_three span,
+    .dot_img img,
+    .dot_img2 img,
+    .portmg_aboutRight_content .contact_btn img,
+    .small_img2 img {
+        display: none
+    }
+    .left_img_4,
+    .right_img_4,
+    .small_img_4,
+    .top_img_4 {
+        width: 30px
+    }
+    .portmeg_gallery_wrapper .portfolio_item .portfolio_hover .port-zoom-poph3 {
+        font-size: 16px;
+        line-height: 24px;
+        padding-top: 0;
+        padding-bottom: 10px
+    }
+    .main_slider_wrapper-2.slider-area .carousel-inner .carousel-item .carousel-captions .content,
+    .portmeg_portfolio_gallery .heading_style1,
+    .portmg_about_us .heading_style1,
+    .portmg_blog .heading_style1,
+    .portmg_digital_product_section .portmg_digital_product_content .portmg_digital_product_heading h2,
+    .portmg_our_services_section .heading_style1,
+    .portmg_unique_wrrapper_section .portmg_unique_content_right .button,
+    .portmg_unique_wrrapper_section .portmg_unique_content_right .heading_style1 {
+        text-align: center
+    }
+    .portmg_about_us .portmg_aboutRight_content {
+        width: 100%;
+        text-align: center
+    }
+    .portmg_professional_skill_section .portmg_professional_bdr {
+        display: none
+    }
+    .portmg_professional_img img {
+        width: 100%
+    }
+    .lastest_work_portfolio_wrapper .btn-style1 {
+        padding: 0 20px
+    }
+    .portmg_unique_content_right {
+        padding: 60px 0 60px 0
+    }
+    .portmg_form_right_content {
+        padding: 0
+    }
+    ul.footer-menu {
+        float: left
+    }
+    .form_btn_04 {
+        text-align: center
+    }
+    .lastest_work_portfolio_wrapper {
+        padding: 60px 0
+    }
+    .portmg_our_services_section .portmg_our_services_social {
+        min-height: 290px;
+        max-width: 295px;
+        margin: -15px auto
+    }
+    .portmg_our_services_section .portmg_our_services_logo img {
+        left: 6%;
+        top: 35%
+    }
+    .portmg_our_services_section .faltmobile,
+    .portmg_our_services_section .flatfork,
+    .portmg_our_services_section .flatmeter {
+        width: 45px;
+        height: 45px;
+        padding-top: 0;
+        line-height: 45px;
+        font-size: 20px
+    }
+    .cnt_resp {
+        margin: 0
+    }
+    .portmg_our_services_section .flatfork {
+        left: -4%
+    }
+    .portmg_our_services_section .flatclock {
+        right: -4%
+    }
+    .portmg_our_services_section .portmg_social_text,
+    .portmg_our_services_section .portmg_social_text1,
+    .portmg_our_services_section .portmg_social_text2 {
+        top: -6%;
+        left: -2%;
+        font-size: 12px
+    }
+    .portmg_our_services_section .portmg_social_text1 {
+        top: 7%;
+        left: -4%;
+        font-size: 12px
+    }
+    .portmg_our_services_section .portmg_social_text2 {
+        top: 37%;
+        left: -5%;
+        font-size: 12px
+    }
+    .portmg_our_services_section .flatclock,
+    .portmg_our_services_section .flatfubol,
+    .portmg_our_services_section .flatglobe {
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 20px
+    }
+    .portmg_our_services_section .portmg_social_text3,
+    .portmg_our_services_section .portmg_social_text4,
+    .portmg_our_services_section .portmg_social_text5 {
+        top: -15%;
+        right: -5%;
+        font-size: 12px
+    }
+    .portmg_our_services_section .portmg_social_text4 {
+        top: 7%;
+        right: -5%;
+        font-size: 12px
+    }
+    .portmg_our_services_section .portmg_social_text5 {
+        top: 40%;
+        right: -6%;
+        font-size: 12px
+    }
+    .main_slider_wrapper_6.slider-area .carousel-inner .carousel-item .caption-1,
+    .slider-area .carousel-inner .carousel-item .caption-2,
+    .slider-area .carousel-inner .carousel-item .caption-3 {
+        width: 100%;
+        height: 100%;
+        position: relative;
+        min-height: 0
+    }
+    .main_slider_wrapper_6.slider-area .carousel-inner .carousel-item .carousel-captions .content {
+        padding-bottom: 65px
+    }
+    .portmg_hello_text h6 {
+        font-size: 12px
+    }
+    .main_slider_wrapper_6 .portmg_hello_text span {
+        font: 30px
+    }
+    .main_slider_wrapper_6 .portmg_hello_text .btn {
+        margin-top: 40px
+    }
+    .grid_section .grid-btn .btn {
+        padding: 10px 52px
+    }
+    .get_started_text {
+        padding: 10px 20px
+    }
+    .footer-newsletter {
+        margin-bottom: 80px;
+        padding: 30px
+    }
+    .skyblue-button {
+        padding: 0 20px
+    }
+    .portmeg_gallery_wrapper .portfolio_item .portfolio_hover .zoom_popup_2 {
+        top: 35%
+    }
+    .portmeg_gallery_wrapper .portfolio_item .portfolio_hover .zoom_popup_right {
+        bottom: 45px
+    }
+    .portmeg_gallery_wrapper .portfolio_item_over {
+        padding-top: 0
+    }
+    .portmg_gallery_slider_wrapper .owl-next span,
+    .portmg_gallery_slider_wrapper .owl-prev span {
+        font-size: 10px;
+        padding: 15px;
+        line-height: 7px
+    }
+    .portmg_gallery_slider_wrapper .owl-prev {
+        left: 10px
+    }
+    .portmg_gallery_slider_wrapper .owl-next {
+        right: 10px
+    }
+    .wrapper_404 {
+        padding: 40px 0
+    }
+    .heading_404 {
+        margin-top: 40px;
+        text-align: center
+    }
+    .porotmega-blog-author,
+    .portmega_share_now_option .portomega_blog_single_share .portomega_blog_single_comment .portmg_team_social1,
+    .portomega_blog_single_share_head h2,
+    .portomega_comment_read_section h2 {
+        text-align: center
+    }
+    .portomega_product_Left_heading {
+        padding-top: 10px
+    }
+    .porotmega-blog-author.portomega-blog-author-image img {
+        max-width: 110px
+    }
+    .portomega-blog-author {
+        padding: 20px 0
+    }
+    .portmg_blog .blog_related_item.owl-theme .owl-nav {
+        bottom: calc(100% + 20px)
+    }
+    .portomega_blog_single_share_head h2 {
+        padding-left: 0
+    }
+    .product-post-wrapper {
+        padding-bottom: 0
+    }
+    .portomega_comment_read_section_2 {
+        padding: 0
+    }
+    .portmg_form_right_content .portomega_product_Comment_form h2 {
+        font-size: 30px
+    }
+    .slider-area-5 .carousel-inner .carousel-item .carousel-captions .content {
+        padding-top: 115px
+    }
+    .main_slider_wrapper_5 .bubble_5 {
+        left: 103px;
+        bottom: 561px
+    }
+    .main_slider_wrapper_5.slider-area .carousel-inner .carousel-item .carousel-captions .content h4:before {
+        left: -58%
+    }
+    .main_slider_wrapper_5 .down_img {
+        top: 70%
+    }
+    .mask_with_girl_5 {
+        right: 17px;
+        top: -240px
+    }
+    .more_btn5 {
+        margin-bottom: 0
+    }
+    .main_slider_wrapper_5.slider-area .carousel-inner .carousel-item .carousel-captions .content h4 {
+        margin-left: 0
+    }
+    .heading_style1 {
+        text-align: center;
+        font-size: 25px
+    }
+    section.portmg_about_us .portmg_aboutRight_content_below {
+        margin-top: 30px;
+        margin-bottom: 40px
+    }
+    .learn_btn {
+        text-align: center;
+        margin-bottom: 20px
+    }
+    .portmg_digital_product_content {
+        padding-bottom: 20px;
+        padding-top: 0
+    }
+    .portmg_digital_product_heading {
+        padding-bottom: 90px;
+        padding-top: 46px
+    }
+    .portmg_digital_product_heading h2 {
+        font-size: 26px
+    }
+    .main_slider_wrapper-2 .portmg_digital_product_circle {
+        top: calc(40% - 65px);
+        height: 50px;
+        width: 50px;
+        line-height: 51px
+    }
+    .interface_design_wrapper .portmg_digital_product_circle {
+        top: calc(56% - 65px);
+        left: calc(53% - 34px)
+    }
+    .lastest_work_wrapper {
+        padding-top: 50px
+    }
+    .more_btn5 {
+        text-align: center;
+        margin-top: 0;
+        margin-bottom: 30px;
+        float: none
+    }
+    .portmg_our_services_content_1 {
+        padding: 15px
+    }
+    .portmg_services_section_05 .portmg_our_services_content_hedding_1 span {
+        top: 10px
+    }
+    .portmg_services_section_05 .portmg_our_services_content_hedding_1 h4 {
+        font-size: 16px;
+        padding-top: 5px;
+        text-align: center
+    }
+    .portmg_our_services_content_para_1 {
+        padding-top: 50px
+    }
+    .portmg_circle_section .portmg_circle_text.portmg_circle_text2 .portmg_text {
+        padding-top: 60px
+    }
+    .portmg_circle_section .portmg_text p {
+        padding-bottom: 0
+    }
+    .portmg_circle_section .portmg_circle_content {
+        max-width: 350px;
+        margin: 15px auto
+    }
+    .main_card_banner_second_heading {
+        float: none;
+        text-align: center
+    }
+    .shopping-cart .yellow-button_L {
+        float: none;
+        text-align: center
+    }
+    .shopping-cart p {
+        padding-left: 0
+    }
+    .shopping-cart .btn-style1 {
+        padding: 0 30px
+    }
+    .get_btn .btn-style1 {
+        font-size: 14px
+    }
+    .column-labels label {
+        padding-left: 0;
+        font-size: 14px
+    }
+    .product-quantity.quantity__2 {
+        float: right;
+        padding-left: 0
+    }
+    .product-quantity input {
+        margin-right: 20px;
+        margin-bottom: 0
+    }
+    .product-quantity .portmega_minus,
+    .product-quantity .portmega_plus {
+        right: 45px
+    }
+    .product-quantity .portmega_plus {
+        bottom: 20px
+    }
+    .product-quantity .portmega_minus {
+        top: 20px
+    }
+    .product .product-line-price {
+        float: left;
+        margin-right: 85px;
+        margin-top: 0
+    }
+    .shopping-cart .product {
+        padding-top: 20px
+    }
+    .shopping-cart .Apply-btn,
+    .shopping-cart .simple_btn {
+        text-align: center
+    }
+    .totals {
+        width: auto;
+        margin-left: 0
+    }
+    .cart_box {
+        float: none
+    }
+    .shopping_cart_wrapper .shopping-cart {
+        padding: 30px 0
+    }
+    .check_out .get_btn .btn-style1 {
+        padding: 0 40px
+    }
+    .showcase_heading_wrapper h2 {
+        font-size: 30px
+    }
+    .showcase-toogle .op-menu {
+        right: 15px
+    }
+    .showcase_slider_wrapper {
+        margin-top: -270px
+    }
+    .portomega_product_rSidebar h6 {
+        font-size: 14px;
+        padding-left: 0
+    }
+    .product_content_price {
+        font-size: 12px;
+        padding-top: 0
+    }
+    .portmg_blog_01 .portmg-wrapper {
+        margin-bottom: 20px
+    }
+    .portomega_blog_03 .portmg-wrapper .blog-content2 {
+        margin-top: 0
+    }
+    .portmg_blog .portmg-wrapper .entry-title a {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .portmg_blog .portmg-wrapper .entry-title {
+        margin-top: 10px;
+    }
+    .textmonial_03 .portmg_main_testimonial_para {
+        padding-left: 0;
+        padding-top: 0
+    }
+    .service-box-container {
+        margin-top: 20px
+    }
+    .portomega_product_Left_heading .product_wrapper .product-post-wrapper .portomega_product_sidebar_product .entry-footer {
+        left: 20%
+    }
+    .portomega_product_sidebar_product img {
+        width: 100%
+    }
+    .product_content_detials {
+        margin-right: 0
+    }
+    .select-dropdown {
+        margin-top: 19px;
+        margin-left: 0;
+        padding-left: 0
+    }
+    .product_content_detials {
+        padding-left: 0
+    }
+    .product_content_detials h6 {
+        padding-left: 0
+    }
+    .portomega_product_lSidebar {
+        padding-left: 0
+    }
+    .about_slution_tab .nav-tabs .nav-link {
+        padding: 20px 50px
+    }
+    .bottom-footer ul.footer-menu li a {
+        margin-left: 0;
+        margin-right: 20px
+    }
+    .about_us_banner h1 {
+        font-size: 22px
+    }
+    .portmg_services_section_05 .img-shape img {
+        max-height: 100px;
+        width: 100%
+    }
+    .interface_design_count_wrapper {
+        padding-top: 10px
+    }
+    .interface_quality_wrapper p {
+        margin-left: 40px;
+        margin-top: 170px
+    }
+    .interface_quality_wrapper {
+        margin-top: 15px
+    }
+    .interface-pera {
+        padding-top: 0
+    }
+    .interface-pera p {
+        font-size: 12px;
+        padding-bottom: 20px
+    }
+    .interface_design_wrapper {
+        padding-bottom: 20px;
+        padding-top: 20px
+    }
+    .interface_design_count_wrapper .inter_pera {
+        font-size: 18px
+    }
+    .interface_quality_wrapper img {
+        width: 100%
+    }
+    .portfolio_single_section {
+        padding-bottom: 40px;
+        margin-bottom: 30px
+    }
+    .content-img {
+        text-align: center
+    }
+    .requirement_text,
+    .portfolio_social,
+    .content_text-1,
+    .content_text,
+    .content_text-03 {
+        padding-left: 0px;
+        padding-top: 20px
+    }
+    .portfolio_our_section .portfolio_content {
+        margin: 0px;
+        max-width: inherit;
+    }
+    .content-img img {
+        width: 100%;
+    }
+    .requirement_header_text {
+        padding-bottom: 15px
+    }
+    .requirement_btm_text {
+        padding-left: 30px
+    }
+    .reuirement-img {
+        padding-top: 10px
+    }
+    .portfolio_requirement_section .btn-prev {
+        text-align: center
+    }
+    .portfolio_requirement_section .btn-next {
+        text-align: center
+    }
+    .portfolio_requirement_section .btn-next-1 {
+        padding: 10px 30px
+    }
+    .about_slution_tab {
+        margin-bottom: 20px
+    }
+    .portfolio_single_02_section {
+        padding: 50px 0
+    }
+    .requirement_text h4 {
+        padding-bottom: 20px;
+        padding-top: 10px
+    }
+    .requirement_text h5 {
+        padding-bottom: 15px
+    }
+    .img_pad_resp {
+        padding: 0;
+        padding-top: 10px
+    }
+    .requirement_content {
+        padding-bottom: 20px;
+        padding-top: 30px;
+        padding-left: 0
+    }
+    .portomega_blog_single_qoutes {
+        padding-left: 45px
+    }
+    .portmg_form_sectionbg .portomega_blog_single_comment {
+        margin-left: -45px
+    }
+    .portomega_blog_single_share {
+        padding: 0 10px
+    }
+    .portfolio_our_section .portfolio_content h3,
+    .portfolio_single_02_section .portfolio_content h3,
+    .portfolio_single_section .portfolio_content h3 {
+        padding-top: 30px;
+        font-size: 20px
+    }
+    .portfolio_requirement_section {
+        padding-top: 0
+    }
+    .portfolio_our_section {
+        padding-top: 0;
+        padding-bottom: 10px
+    }
+    .portomega_blog_single_page .portomega_blog_single_comment {
+        float: none;
+        text-align: center
+    }
+    .portfolio_our_section .portfolio_content {
+        padding-bottom: 10px
+    }
+    .portfolio_single_03_section .content_text h5,
+    .portfolio_single_03_section h5 {
+        font-size: 11px
+    }
+    .portfolio_single_03_section .content_text p,
+    .portomega_comment_read_section p {
+        font-size: 11px
+    }
+    .portmeg_gallery_wrapper .portfolio_item .portfolio_hover p {
+        padding-top: 0
+    }
+    .portfolio_single_03_section .content_text {
+        padding: 13px 0 0 40px
+    }
+    .portfolio_single_03_section .content_text-03 {
+        padding: 19px 0 0 45px
+    }
+    .portfolio_single_03_section .portfolio_social {
+        padding-left: 45px
+    }
+    .portfolio_single_03_section .portfolio_social ul li {
+        font-size: 13px;
+        margin-right: 10px
+    }
+    .portfolio_single_03_section .content_text:after {
+        border: none
+    }
+    .portfolio_our_section .content-img {
+        text-align: center;
+        padding-bottom: 10px;
+        padding-top: 0
+    }
+    .metro_margin {
+        padding: 0
+    }
+    .portmg_professional_skill_section .portmg_professional_para {
+        padding-top: 15px;
+        text-align: center
+    }
+    .about-bg-4 {
+        display: none
+    }
+    .portmg_professional_skill_section .portmg_professional_bdr {
+        margin-top: 0
+    }
+    .portmg_professional_skill_section .portmg_professional_para h3 {
+        font-size: 18px
+    }
+    .portmg_professional_skill_section .portmg_professional_bdr p {
+        font-size: 14px
+    }
+    section.portmg_about_us {
+        padding-bottom: 60px
+    }
+    .portmg_about_us p {
+        padding-right: 0
+    }
+    .contact_btn img {
+        margin-right: 0
+    }
+    .princing_01_section .pricing_content {
+        margin-bottom: 20px
+    }
+    .princing_02_section .pricing_bestseller h4 {
+        font-size: 8px;
+        padding: 24px 5px
+    }
+    .princing_02_section .pricing_bestseller {
+        top: 2%;
+        right: 5%;
+        min-width: 50px;
+        min-height: 50px
+    }
+    .princing_02_section .pricing_numeric_text {
+        top: 13%;
+        left: 34%
+    }
+    .pricing_content .pricing-shape-header-1 img {
+        width: 100%;
+        height: 164px
+    }
+    .princing_02_section .pricing-shape-circle img {
+        left: calc(38% - 100px)
+    }
+    .princing_02_section .princing-text ul li {
+        font-size: 14px
+    }
+    .princing_02_section .pricing_content {
+        max-width: 365px;
+        margin: 20px auto
+    }
+    .princing_02_section .pricing_header_btn .btn-1 {
+        padding: 10px 30px
+    }
+    .princing_01_section .pricing-shape img {
+        max-height: 100px;
+        width: 100%
+    }
+    .princing_03_section .pricing_content {
+        max-width: 365px;
+        margin: 20px auto
+    }
+    .princing_03_section .pricing-shape-circle img {
+        left: calc(38% - 100px)
+    }
+    .princing_03_section .pricing_bestseller {
+        top: 2%;
+        right: 5%;
+        min-width: 50px;
+        min-height: 50px
+    }
+    .princing_03_section .princing-text ul li {
+        font-size: 14px
+    }
+    .princing_03_section .pricing_numeric_text {
+        top: 13%;
+        left: 34%
+    }
+    .princing_01_section .pricing_numeric_text h3 sup {
+        left: 0
+    }
+    .princing_01_section .pricing_header_btn .btn-1 {
+        margin-top: 10px
+    }
+    .portomega-our-team-member-details-plus1:after,
+    .portomega-our-team-member-details-plus2:after,
+    .portomega-our-team-member-details-plus3:after,
+    .portomega-our-team-member-details-plus4:after {
+        min-height: 85px
+    }
+    .portomega-our-team-memberdetail a,
+    .portomega-our-team-memberdetail h5 {
+        font-size: 10px
+    }
+    .portomega-our-team-memberdetail P {
+        font-size: 12px;
+        padding-top: 0
+    }
+    .portomega-boxset {
+        width: 30px;
+        height: 30px;
+        padding: 0 0
+    }
+    .portomega-iconbox {
+        margin-top: 5px
+    }
+    .portomega-our-team-member-details-add span {
+        font-size: 12px
+    }
+    .portomega-our-team-member-details-detail4 {
+        top: -54px;
+        left: -85px
+    }
+    .portomega-our-team-member-details-plus1 {
+        left: 84px
+    }
+    .portomega-our-team-member-details-detail1 {
+        left: 24px;
+        top: -50px
+    }
+    .portomega-our-team-member-details-detail2 {
+        top: 37px;
+        left: -24px
+    }
+    .portomega-our-team-member-details-plus2 {
+        top: 45%;
+        left: 34px
+    }
+    .portomega-our-team-member-details-plus3 {
+        top: 45%;
+        left: 28px
+    }
+    .portomega-our-team-member-details-detail3 {
+        left: -31px;
+        top: 43px
+    }
+    .get_started_section,
+    .main_slider_wrapper_6 {
+        text-align: center;
+        padding: 40px 0
+    }
+    .portomega-our-team-memberdetail {
+        width: 150px
+    }
+    .portomega-our-team-member-details-plus4 {
+        top: 0;
+        left: -24px
+    }
+    .portomega_product_rSidebar h6 {
+        text-align: left
+    }
+    .product_img_slider_item.owl-carousel .owl-nav button.owl-next {
+        top: -52px;
+        right: 3%
+    }
+    .product_img_slider_item.owl-carousel .owl-nav button.owl-prev {
+        top: -52px;
+        right: 20%
+    }
+    .portomega_product_border h5 {
+        font-size: 15px;
+        padding-left: 20px
+    }
+    .portomega_product_left_Sidebar {
+        padding-top: 20px;
+        padding-left: 0
+    }
+    .portomega-item-quantity {
+        padding-left: 40px
+    }
+    .product_wrapper .product-post-wrapper .sidebar-r .entry-footer {
+        left: calc(47% - 45px)
+    }
+    .portmg_about_us .portmg_about_me_count {
+        padding-bottom: 0
+    }
+    .portomega_item_buy {
+        margin-left: 0
+    }
+    .testimonial_03_row {
+        padding: 0
+    }
+    .textmonial_03 .portmg_main_testimonial_content .portmg_main_testimonial_heading {
+        margin-left: 20px
+    }
+    .portmg_square_section .portmg_square_text {
+        position: inherit
+    }
+    .portmg_square_section img {
+        width: 100%
+    }
+    .portomega_product_Left_heading2 {
+        padding-top: 10px
+    }
+    .portomega-comment-return-left {
+        right: -57%
+    }
+    .portomega_comment_read_section .portomega_comment_section span {
+        margin-left: 10px;
+        margin-right: 20px
+    }
+    .coming_soon_2 .comimg_soon_portmg_main_testimonial_image {
+        top: 82px;
+        left: 28%
+    }
+    .coming_soon_remainSec .remaining {
+        border: none
+    }
+    .coming_soon_2 .coming_soon_remainSec {
+        padding: 0 0 10px;
+        left: 10px
+    }
+    .coming_soon_2 .coming_soon_remainSec:before {
+        background: 0 0
+    }
+    .coming_soon_2 .coming_soon_email_notify form {
+        margin: 0 -25px;
+    }
+    .portmg_main_dash_image img {
+        display: none
+    }
+    .coming_soon_2 .coming_soon_email_notify form button {
+        right: 38px;
+        top: 0
+    }
+    .coming_soon_remainSec {
+        padding-top: 0
+    }
+    .coming_soon_remainSec .remaining {
+        margin-top: 6px
+    }
+    .coming_soon_remainSec h2 span {
+        font-size: 18px
+    }
+    .coming_soon_remainSec .remaining p {
+        font-size: 10px
+    }
+    .coming_soon_remainSec:before {
+        max-height: 115px;
+        border-radius: 0 0 81px 81px
+    }
+    .coming_soon_content h3 {
+        font-size: 18px
+    }
+    .coming_soon_content h4 {
+        font-size: 26px
+    }
+    .coming_soon_content p {
+        font-size: 14px;
+        padding-bottom: 40px
+    }
+    .coming_soon_email_notify form button {
+        top: -57px;
+        float: right;
+        font-size: 12px;
+        margin-left: 0
+    }
+    .coming_soon_header_btn {
+        text-align: center
+    }
+    .portmg_coming_soon_s2 .coming_soon_button_wrapper .stylish-sticky-button_1,
+    .portmg_coming_soon_s3 .coming_soon_button_wrapper .bg_purple_btn {
+        margin-top: 20px
+    }
+    .coming_soon_button_wrapper .xt_logo_wrapper {
+        margin-top: 20px;
+        text-align: center;
+        float: none
+    }
+    .portmg_coming_soon_s2#main-footer ul.social li,
+    .portmg_coming_soon_s3#main-footer ul.social li {
+        float: none
+    }
+    .portmg_coming_soon_s2#main-footer ul.social,
+    .portmg_coming_soon_s3#main-footer ul.social {
+        float: none;
+        text-align: center
+    }
+    .get_started_section .get-btn .btn {
+        margin-bottom: 30px
+    }
+    .op-menu {
+        right: 10px;
+        bottom: 0
+    }
+    .right_img img {
+        right: -100px
+    }
+    .portomega-item-quantity .num-block {
+        margin-right: 20px
+    }
+    .portmeg_gallery_wrapper .portfolio_item .portfolio_hover .zoom_popup {
+        padding: 25px 25px
+    }
+    .portmg-gallery-tab {
+        margin-top: 10px
+    }
+    .portmeg_gallery_wrapper .portfoli_inner .portfolio_item .portmg-gallery-tab img {
+        padding: 15px 8px
+    }
+    .gallery_tab_2 {
+        margin-top: 20px
+    }
+    .coming_soon_remainSec {
+        width: 100%;
+        left: 0;
+        padding: 0 40px 0 40px
+    }
+    .coming_soon_remainSec .remaining p {
+        font-size: 10px;
+        padding-top: 0
+    }
+    .coming_soon_remainSec h2 span {
+        font-size: 24px
+    }
+    .coming_soon_remainSec .remaining {
+        margin-top: 10px;
+        margin-bottom: 25px
+    }
+    .coming_soon_content_1 input {
+        width: 100%
+    }
+    .portmg_form_content_text,
+    .portmg_left_form {
+        position: relative
+    }
+    .overlay-content {
+        left: 0
+    }
+    .showcase-toogle .toggle_plus,
+    .toggle_plus {
+        right: 34px
+    }
+    .showcase_slider_wrapper .portmg_gallery_slider_wrapper .owl-prev {
+        top: 90px
+    }
+    .showcase_slider_wrapper .portmg_gallery_slider_wrapper .owl-next {
+        top: 90px
+    }
+    .fa-external-link-alt {
+        font-size: 17px;
+        margin-right: 10px
+    }
+    .external-link-alt-2 {
+        position: absolute;
+        top: 30px;
+        left: -85px
+    }
+    .portmg_our_services_content_03 .portmg_our_services_content_hedding span {
+        right: -31px
+    }
+    .totals__pera {
+        padding-left: 40px
+    }
+    .service-box {
+        left: 90px
+    }
+    .service-box-lefticon {
+        left: 30px
+    }
+    ul.portmg_team_social li a {
+        margin: 7px 6px 0 0
+    }
+    .simple_btn {
+        margin-bottom: 20px;
+        margin-top: 40px
+    }
+    .portmg_blog .portmg-wrapper:hover.iner_blog2 .blog-content1 {
+        margin-bottom: 20px
+    }
+    .portomega_product_Left_sidebar {
+        padding-right: 0
+    }
+    .about_page_header {
+        padding-top: 120px
+    }
+    .portmg_circle_section_2 .portmg_circle_content:hover .portmg_circle_text {
+        top: 35%
+    }
+    .external_link_alt4 {
+        margin-right: -14px;
+        margin-top: 3px
+    }
+    .home2_portmg_digital_product_circle,
+    .home_portmg_digital_product_circle {
+        top: calc(-88% - 34px);
+    }
+    .portmg_our_services_content_hedding h4 {
+        font-size: 16px;
+    }
+    .landing_page_section .landing_page_text {
+        padding: 0;
+    }
+    .portmg_blog.padTB100.float_left {
+        padding-bottom: 0;
+    }
+    .portmg_border_right {
+        border: none;
+    }
+    section.portmg_about_us .portmg_about_pad_01 {
+        padding: 0px 10px;
+    }
+    .portmg_contect_bg_02,
+    .portmg_round_05_bg,
+    .portmg_round_bg_04,
+    .portmg_round_bg_03,
+    .portmg_round_bg {
+        left: 0px;
+        width: 100%;
+    }
+    .portmg_aboutRight_content span img {
+        display: none;
+    }
+    .portmg_unique_wrrapper_section .portmg_unique_wrrapper_first_part,
+    .portmg_about_us_first_part {
+        position: relative;
+    }
+    .footer_btn_5 {
+        right: -5px;
+    }
+    .postmg_right_content_02,
+    .portmg_aboutRight_content.portmg_right_1 {
+        padding: 0px 40px;
+    }
+    .main_slider_wrapper_6 .portmg_hello_text span,
+    .main_slider_wrapper_6 .portmg_hello_text h3 {
+        font-size: 28px;
+    }
+    .landing_page_section .landing_page_text {
+        text-align: center;
+    }
+    .portmg_about_me .portmg_aboutLeft_img img {
+        display: none;
+    }
+    .portmg_about_me .portmg_about_us_first_part {
+        padding: 0px;
+    }
+    .line_btm_img{
+        bottom: -165px;
+    }
+    .main_slider_wrapper-2.slider-area .carousel-inner .carousel-item .carousel-captions .content h2:before{
+        display:none;
+    }
+}

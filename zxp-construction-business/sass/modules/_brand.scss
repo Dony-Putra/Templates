@@ -1,0 +1,9 @@
+.brand-carousel-wrapper {
+	background:#EAEAEA;
+	.brand-carousel {text-align: center;
+		i {color: #636E7A;font-size: 150px;transition: all .4s ease;opacity: .8;
+			&:hover {opacity: .3;}
+		}
+	}
+	.owl-theme .owl-nav {display: none;}
+}

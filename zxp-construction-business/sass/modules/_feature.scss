@@ -1,0 +1,17 @@
+.feature-style-one {
+	padding-left: 95px;
+	.single-feature-style-one {
+		+ .single-feature-style-one {margin-top: 40px;}
+		.icon-box, .text-box {display: table-cell;vertical-align: top;}
+		.icon-box {
+			width: 52px;
+			i {font-size: 52px;color: #242C33;}
+		}
+		.text-box {padding-left: 15px;
+			h3 {margin: 0;color: #051829;font-size: 18px;font-family: 'Poppins';font-weight: 600;margin-bottom: 10px;
+				&.large-font {font-size: 22px;}
+			}
+			p {color: #74787D;font-family: 'Rubik';font-size: 15px;line-height: 27px;margin: 0;}
+		}
+	}
+}

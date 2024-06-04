@@ -1,0 +1,13 @@
+.inner-banner {
+	background: $thm_base_color url(../img/inner-banner.jpg) center center no-repeat;
+	background-size: cover;
+	padding-top: 240px;
+	padding-bottom: 120px;
+	h3 {margin: 0;color: #FFFFFF;letter-spacing: 0.025em;font-size: 48px;font-family: 'Poppins';font-weight: bold;}
+	.breadcumb {
+		margin-top: 15px;
+		a, span {color: #fff;font-size: 16px;font-family: 'Rubik';transition: all .4s ease;}
+		a:hover {color: $thm_base_color;}
+		span.sep {margin-left: 10px;margin-right: 10px;}
+	}
+}
